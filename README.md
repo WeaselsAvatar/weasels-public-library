@@ -5,6 +5,8 @@ A collection of random tables and other documentation for tabletop role-playing 
 ## Document Navigation
 
 - [Fluff](./docs/Fluff/fluff-index.md) contains some fluff texts for various games.
+- [General Sci-Fi](./docs/General%20Sci-Fi/scifi-index.md)
+- [Pathfinder](./docs/Pathfinder/pathfinder-index.md) some Pathfinder related documents
 - [VTT](./docs/VTT/vtt-index.md) contains all sorts of stuff for use with virtual tabletops (like Roll20 or Foundry VTT)
 - [X Without Number](./docs/X%20Without%20Number/x-without-number-index.md) contains content specific to Sine Nomine Publishings ...Without Number games (Random tables, rules, etc.)
 

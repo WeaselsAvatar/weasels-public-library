@@ -18,9 +18,9 @@ Traps, be they improvised or professionally made, are intended to deny ground an
 
 ## Hacks
 
-### Do not think about blue elephants!
+### Do not think about blue elephants
 
-Hacking in a cyberpunk (or generally modern) environment, be it for profit, activism or pranks, is usually based on a simple principle: 
+Hacking in a cyberpunk (or generally modern) environment, be it for profit, activism or pranks, is usually based on a simple principle:
 
 *If I know how a system responds to a certain input, I can then maybe change or manipulate that input to get a different response.*
 
@@ -29,8 +29,4 @@ This is not limited to machines, but people as well. Look at the chapter title. 
 * Modify the *context* of any given information to mean something completely different.
 * Convince a system that it has to respond in a certain way (triggering a fire alarm causes doors to open, a silouette of a gunman in the shadows causes a guard to investigate or open fire)
 
-Machines (especially low-level AIs) are in some ways easier to hack than people because they are missing several abstraction layers humans have. If a machine is told to fill a tank from a bottle labeled "Water", it will probably do so, even if the bottle is filled with gasoline. A human would probably wonder about the smell.   
-
-### "Im Arsch"
-
-*(German, slang, vulg., lit. "up the ass". Not functioning anymore. Too tired or injured to be useful. Closest English approximation: fucked (up)/kaput/knackered/finished/broken)*
+Machines (especially low-level AIs) are in some ways easier to hack than people because they are missing several abstraction layers humans have. If a machine is told to fill a tank from a bottle labeled "Water", it will probably do so, even if the bottle is filled with gasoline. A human would probably wonder about the smell.
