@@ -1,4 +1,4 @@
-// Uses the 'Npc Combat Taunts' table for results (see 'rolltables' folder)
+// Uses the 'Npc Combat Taunts' table for results (see 'stars-without-number/rolltables' folder)
 
 let roll = await game.tables.getName('NPC Combat Taunts').roll();
 let tkn = canvas.tokens.controlled[0];
