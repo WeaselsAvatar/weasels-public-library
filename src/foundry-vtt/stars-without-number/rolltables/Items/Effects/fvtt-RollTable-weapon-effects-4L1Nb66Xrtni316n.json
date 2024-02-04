@@ -1,0 +1,492 @@
+{
+  "folder": "soWtdF6j8jvtTBdR",
+  "name": "Weapon Effects",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "results": [
+    {
+      "type": 0,
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "documentCollection": "",
+      "_id": "k7NxBbU5xOOLoYjD",
+      "text": "Has unlimited Ammo/Energy",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": 0,
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "drawn": false,
+      "documentCollection": "",
+      "_id": "WW9ocOhPTEUhjyEK",
+      "text": "Irradiates: Does Radiation Damage (-1 CON/hit)",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": 0,
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "drawn": false,
+      "documentCollection": "",
+      "_id": "p5ym24G03nfEprUT",
+      "text": "Fragments: On hit 20+ for 1d6 Damage",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": 0,
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "drawn": false,
+      "documentCollection": "",
+      "_id": "OciMf9yz6q5F5ND8",
+      "text": "Is Armour Piercing (Shock +1 / AC13)",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": 0,
+      "weight": 1,
+      "range": [
+        5,
+        5
+      ],
+      "drawn": false,
+      "documentCollection": "",
+      "_id": "Mskk5A2UP0ZjwXFW",
+      "text": "Explodes: On hit 20+ for 1d10 Damage. A natural 1 destroys the weapon and hits the wielder",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": 0,
+      "weight": 1,
+      "range": [
+        6,
+        6
+      ],
+      "drawn": false,
+      "documentCollection": "",
+      "_id": "ZkZLKuKZSLFL2W9F",
+      "text": "Exsanguinates: On hit, Save (P) or 1 bleed damage until healed",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": 0,
+      "weight": 1,
+      "range": [
+        7,
+        7
+      ],
+      "drawn": false,
+      "documentCollection": "",
+      "_id": "gAv2I176YyAIzuHA",
+      "text": "Has a VI that gives tips on handling and is generally annoying",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": 0,
+      "weight": 1,
+      "range": [
+        8,
+        8
+      ],
+      "drawn": false,
+      "documentCollection": "",
+      "_id": "HMRC9tkoPAnSTDCp",
+      "text": "Has a VI that is passively hostile to the wielder",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": 0,
+      "weight": 1,
+      "range": [
+        9,
+        9
+      ],
+      "drawn": false,
+      "documentCollection": "",
+      "_id": "YpIUGkQUIeg42Bv1",
+      "text": "Has a VI that is actively hostile to the target and constantly shouts insults",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": 0,
+      "weight": 1,
+      "range": [
+        10,
+        10
+      ],
+      "drawn": false,
+      "documentCollection": "",
+      "_id": "n70UCH6P2Xl4XKNC",
+      "text": "Is made of an unknown lightweight metal",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": 0,
+      "weight": 1,
+      "range": [
+        11,
+        11
+      ],
+      "drawn": false,
+      "documentCollection": "",
+      "_id": "WlFfmsEzQspE5geK",
+      "text": "Has biological components",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": 0,
+      "weight": 1,
+      "range": [
+        12,
+        12
+      ],
+      "drawn": false,
+      "documentCollection": "",
+      "_id": "lV9jqHn8QrKKXFRO",
+      "text": "Looks like it is made from human bone",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": 0,
+      "weight": 1,
+      "range": [
+        13,
+        13
+      ],
+      "drawn": false,
+      "documentCollection": "",
+      "_id": "BtdWZKrmolb4vtj5",
+      "text": "Is made from human bone",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": 0,
+      "weight": 1,
+      "range": [
+        14,
+        14
+      ],
+      "drawn": false,
+      "documentCollection": "",
+      "_id": "oOfzygRE86pjwUB3",
+      "text": "Is inscribed with runes that glow faintly red",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": 0,
+      "weight": 1,
+      "range": [
+        15,
+        15
+      ],
+      "drawn": false,
+      "documentCollection": "",
+      "_id": "BJNq13zszgwHv4gz",
+      "text": "Has an animal motif like a snarling wolfs head",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": 0,
+      "weight": 1,
+      "range": [
+        16,
+        16
+      ],
+      "drawn": false,
+      "documentCollection": "",
+      "_id": "Vq5s0Vc8WMCPtMUj",
+      "text": "Trails smoke when used",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": 0,
+      "weight": 1,
+      "range": [
+        17,
+        17
+      ],
+      "drawn": false,
+      "documentCollection": "",
+      "_id": "DO3N95FKb0RCkBqf",
+      "text": "Is made of smoky glass",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": 0,
+      "weight": 1,
+      "range": [
+        18,
+        18
+      ],
+      "drawn": false,
+      "documentCollection": "",
+      "_id": "jKXxGOKQAnR1aQP0",
+      "text": "Makes \"funny\" noises appropriate to the weapon (\"Pew pew\", \"BOOOM\", \"Swoosh\", etc.)",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": 0,
+      "weight": 1,
+      "range": [
+        19,
+        19
+      ],
+      "drawn": false,
+      "documentCollection": "",
+      "_id": "hRiZNq1WkFpyuF2P",
+      "text": "Screams horribly when used",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": 0,
+      "weight": 1,
+      "range": [
+        20,
+        20
+      ],
+      "drawn": false,
+      "documentCollection": "",
+      "_id": "crN4X4xUq3tRjMLT",
+      "text": "Weeps when used",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": 0,
+      "weight": 1,
+      "range": [
+        21,
+        21
+      ],
+      "drawn": false,
+      "documentCollection": "",
+      "_id": "Kp16cCbbqPtSyl1N",
+      "text": "Makes the wielder laugh maniacally when using the weapon",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": 0,
+      "weight": 1,
+      "range": [
+        22,
+        22
+      ],
+      "drawn": false,
+      "documentCollection": "",
+      "_id": "ScmQRV2XuMcHRpJO",
+      "text": "Is only visible to the wielder or out of the corner of the eye",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": 0,
+      "weight": 1,
+      "range": [
+        23,
+        23
+      ],
+      "drawn": false,
+      "documentCollection": "",
+      "_id": "fbrQHZxV5WzfPTp9",
+      "text": "Bursts into flame: On hit 20+ for 1d6 Damage/round. A natural 1 sets the wielder on fire",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": 0,
+      "weight": 1,
+      "range": [
+        24,
+        24
+      ],
+      "drawn": false,
+      "documentCollection": "",
+      "_id": "A6UwJwTATkzf9Ix7",
+      "text": "Is made from a dark wood",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": 0,
+      "weight": 1,
+      "range": [
+        25,
+        25
+      ],
+      "drawn": false,
+      "documentCollection": "",
+      "_id": "coYu0kTZIDTjxh45",
+      "text": "Is self-Modifying: To-Hit and Damage bonus change between -2 and +2 at the start of the session",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": 0,
+      "weight": 1,
+      "range": [
+        26,
+        26
+      ],
+      "drawn": false,
+      "documentCollection": "",
+      "_id": "WLtdda00yx3w4B3V",
+      "text": "Smells strongly of petrol when used",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": 0,
+      "weight": 1,
+      "range": [
+        27,
+        27
+      ],
+      "drawn": false,
+      "documentCollection": "",
+      "_id": "KIUfFgvztq48BGqH",
+      "text": "Has way too many buttons and dials. They don't seem to do anything",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": 0,
+      "weight": 1,
+      "range": [
+        28,
+        28
+      ],
+      "drawn": false,
+      "documentCollection": "",
+      "_id": "JWRrMwaLr9wKifzs",
+      "text": "Smells faintly of freshly cut grass when used",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": 0,
+      "weight": 1,
+      "range": [
+        29,
+        29
+      ],
+      "drawn": false,
+      "documentCollection": "",
+      "_id": "STXtDZrXQI40Qh0S",
+      "text": "Has really rude gold inlays that change constantly",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": 0,
+      "weight": 1,
+      "range": [
+        30,
+        30
+      ],
+      "drawn": false,
+      "documentCollection": "",
+      "_id": "DUyNDYcgdDyfaQch",
+      "text": "cannot be lost, unless on purpose. It will reappear sooner or later",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": 0,
+      "weight": 1,
+      "range": [
+        1,
+        30
+      ],
+      "drawn": false,
+      "documentCollection": "",
+      "_id": "owxJ9xKmBIiojCm6",
+      "text": "This weapon is +1 to Hit and damage",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    }
+  ],
+  "formula": "1d30",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {
+    "exportSource": {
+      "world": "uri-cantus-3200",
+      "system": "swnr",
+      "coreVersion": "11.315",
+      "systemVersion": "1.1.0"
+    }
+  },
+  "_stats": {
+    "systemId": "swnr",
+    "systemVersion": "1.0.1",
+    "coreVersion": "10.291",
+    "createdTime": 1679938910448,
+    "modifiedTime": 1679941230920,
+    "lastModifiedBy": "f8lz1Jd4EDV7xJ6B"
+  }
+}

@@ -1,0 +1,282 @@
+{
+  "folder": "kEqoXzhts35PM1I0",
+  "name": "Patente",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "results": [
+    {
+      "type": 0,
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "documentCollection": "",
+      "_id": "unIS9go0Zw4L8d82",
+      "text": "Armor Mod: Personal Stabilizer  Die Rüstung hat eine Biotech-Einlage, die wie ein Lazarus Patch funktioniert und automatisch auslöst, wenn der Träger schwer verletzt wird. Benötigt einen Tag, um zu regenerieren",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": 0,
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "drawn": false,
+      "documentCollection": "",
+      "_id": "DSsLhO07XpD9w66u",
+      "text": "Ship Defense: BioSkin-Armor Plating  Funktioniert wie das Augmented Plating Fitting, kostet allerdings das 3-fache und repariert sich selbst, falls es zerstört wird",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": 0,
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "drawn": false,
+      "documentCollection": "",
+      "_id": "dsV9woYAv3cd3c0B",
+      "text": "Ship Fitting: Predictive-Wiring Das Schiff hat ein bioelektrisches Netzwerk, das extrem schnelle Datenübertragungen möglich macht und zu intuitiven Vorhersagen in der Lage ist. Mit dem Netz verbundene Systeme erhalten je nach System die Möglichkeit, einen Würfelwurf pro Szene zu wiederholen, oder einen Bonus von +1 auf Skillchecks, die mit dem System durchgeführt werden. Systeme in das Netz zu integrieren kostet extra.",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": 0,
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "drawn": false,
+      "documentCollection": "",
+      "_id": "3weylweCwm8NUZ30",
+      "text": "Augmented Food Production:  Das Patent erlaubt es, sehr nährstoffreiche Lebensmittel in kürzester Zeit zu produzieren. Rationen, die für Raumschiffe hergestellt werden, verbrauchen nur noch den halben Platz für die gleiche Menge Essen.",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": 0,
+      "weight": 1,
+      "range": [
+        5,
+        5
+      ],
+      "drawn": false,
+      "documentCollection": "",
+      "_id": "QF2zfFFzZiApKxqF",
+      "text": "Bio Metals: Das Patent schafft die Grundlage, Metalle nicht mehr in Industrieanlagen zu formen, sondern sie über Bakterien in Form wachsen zu lassen. Noch lange nicht Marktreif, werden die Aktienkurse trotzdem explodieren.",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": 0,
+      "weight": 1,
+      "range": [
+        6,
+        6
+      ],
+      "drawn": false,
+      "documentCollection": "",
+      "_id": "nZGeyXxNFPDTZEhZ",
+      "text": "Armor Mod: Enhanced Actuators Verbesserte Aktuatoren und Leitungen sorgen für beschleunigte Reflexe in Power Armor (+1 auf Evasion und Initiative Checks)",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": 0,
+      "weight": 1,
+      "range": [
+        7,
+        7
+      ],
+      "drawn": false,
+      "documentCollection": "",
+      "_id": "X805CpAzXLlqZY0r",
+      "text": "Drug: VaccuBlood Erlaubt es Menschen, etwas länger im Vakuum zu überleben, falls sie einen Unfall haben. Stark mit Sauerstoff angereichertes Blut gibt dem Empfänger drei zusätzliche Runden, bevor die ersten Effekte durch explosive Dekompression auftreten.",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": 0,
+      "weight": 1,
+      "range": [
+        8,
+        8
+      ],
+      "drawn": false,
+      "documentCollection": "",
+      "_id": "cQvVaGp7MO6HLHYP",
+      "text": "Smart Grenades: Etwa zigarrengroße Mikroraketen mit einer Reichweite von ca. 100 Metern. Steuerbar über ein CommPad, geben sie einen Bonus von +1 to Hit und explodieren für 2d6+3 Schaden mit einem Radius von drei Metern.",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": 0,
+      "weight": 1,
+      "range": [
+        9,
+        9
+      ],
+      "drawn": false,
+      "documentCollection": "",
+      "_id": "BtLeFc6J609GFXBh",
+      "text": "Drug: IonScrubbers Halbieren die Zeit, um sich von den Effekten Ionisierender Strahlung zu erholen. Helfen nicht bei letalen Dosen.",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": 0,
+      "weight": 1,
+      "range": [
+        10,
+        10
+      ],
+      "drawn": false,
+      "documentCollection": "",
+      "_id": "JMtLTTiWWBlKndcY",
+      "text": "VaccSkin Suit: Entspricht dem TL5 VaccSkin Suit, ist aber generell erhältlich.",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": 0,
+      "weight": 1,
+      "range": [
+        11,
+        11
+      ],
+      "drawn": false,
+      "documentCollection": "",
+      "_id": "id1itHUoR5UhAKEj",
+      "text": "Photosynthesis Upgrade: Genetisches Upgrade, um Nährstoffe mit Hilfe von Licht erzeugen zu können. Benötigte Nahrung um die Hälfte reduziert",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": 0,
+      "weight": 1,
+      "range": [
+        12,
+        12
+      ],
+      "drawn": false,
+      "documentCollection": "",
+      "_id": "6KENWamUmUvdx6dL",
+      "text": "Toxinfilter: +1 auf Physical Saves gegen Gifte. Man wird auch nicht mehr so schnell betrunken",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": 0,
+      "weight": 1,
+      "range": [
+        13,
+        13
+      ],
+      "drawn": false,
+      "documentCollection": "",
+      "_id": "jDHBqY8f6vimgBNg",
+      "text": "Ship Fitting: Enhanced Hydroponics Wie Hydroponic Production Ship Fitting, kann aber schon ab Fregatte verbaut werden",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": 0,
+      "weight": 1,
+      "range": [
+        14,
+        14
+      ],
+      "drawn": false,
+      "documentCollection": "",
+      "_id": "JGS8zWLVDc11JQfC",
+      "text": "DNA Enhancements: Genetisches Upgrade, welches zum Beispiel Dunkelsicht durch das Einbringen von Klapperschlangengenen ermöglicht.",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": 0,
+      "weight": 1,
+      "range": [
+        15,
+        15
+      ],
+      "drawn": false,
+      "documentCollection": "",
+      "_id": "RcFJ1rEAg07iBJXM",
+      "text": "Personal Camoflage: Aktive Tarnung, ähnlich einem Chamäleon (+1 auf Stealth Checks)",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": 0,
+      "weight": 1,
+      "range": [
+        16,
+        16
+      ],
+      "drawn": false,
+      "documentCollection": "",
+      "_id": "jE640sCaYoEMERLw",
+      "text": "Biodrones: Ermöglicht das Konstruieren biologischer Dronen. Die Dronen kosten das Doppelte ihres normalen Preises, sind aber in der Lage, sich selbst zu reparieren (solange sie nicht komplett zerstört werden)",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": 0,
+      "weight": 1,
+      "range": [
+        17,
+        17
+      ],
+      "drawn": false,
+      "documentCollection": "",
+      "_id": "vxLezlGa17uf1dwB",
+      "text": "Atmosphärenaufbereiter: Ein System zur Aufbereitung planetarer Atmosphären. Ist in der Lage, Schadstoffe auf globaler Ebene zu beseitigen (Verschmutzung, nicht die gesamte Atmosphäre)",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    }
+  ],
+  "formula": "1d17",
+  "replacement": false,
+  "displayRoll": true,
+  "flags": {
+    "exportSource": {
+      "world": "uri-cantus-3200",
+      "system": "swnr",
+      "coreVersion": "11.315",
+      "systemVersion": "1.1.0"
+    }
+  },
+  "_stats": {
+    "systemId": "swnr",
+    "systemVersion": "1.0.1",
+    "coreVersion": "10.291",
+    "createdTime": 1680213431875,
+    "modifiedTime": 1680216499055,
+    "lastModifiedBy": "f8lz1Jd4EDV7xJ6B"
+  }
+}

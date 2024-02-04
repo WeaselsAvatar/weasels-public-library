@@ -1,0 +1,57 @@
+{
+  "folder": "T11OmnNPUtGukJUi",
+  "name": "Starship Name",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "results": [
+    {
+      "type": 1,
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "documentCollection": "RollTable",
+      "_id": "Sem7u914hB4IziJV",
+      "text": "Ship First Name",
+      "img": "icons/svg/d20-grey.svg",
+      "documentId": "jc89UmtaHsxdrl3L",
+      "flags": {}
+    },
+    {
+      "type": 1,
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "documentCollection": "RollTable",
+      "_id": "sd5dHOCOWEgTtuWO",
+      "text": "Ship Last Name",
+      "img": "icons/svg/d20-grey.svg",
+      "documentId": "9oI58GsqezQK9mJK",
+      "flags": {}
+    }
+  ],
+  "formula": "1",
+  "replacement": true,
+  "displayRoll": false,
+  "flags": {
+    "exportSource": {
+      "world": "uri-cantus-3200",
+      "system": "swnr",
+      "coreVersion": "11.315",
+      "systemVersion": "1.1.0"
+    }
+  },
+  "_stats": {
+    "systemId": "swnr",
+    "systemVersion": "1.0.1",
+    "coreVersion": "10.291",
+    "createdTime": 1684955915565,
+    "modifiedTime": 1685042283943,
+    "lastModifiedBy": "f8lz1Jd4EDV7xJ6B"
+  }
+}

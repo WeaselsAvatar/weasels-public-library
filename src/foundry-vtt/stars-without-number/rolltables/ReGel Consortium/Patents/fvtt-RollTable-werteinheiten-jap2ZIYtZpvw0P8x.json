@@ -1,0 +1,57 @@
+{
+  "folder": "kEqoXzhts35PM1I0",
+  "name": "Werteinheiten",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "results": [
+    {
+      "type": 0,
+      "weight": 1,
+      "range": [
+        1,
+        4
+      ],
+      "drawn": false,
+      "documentCollection": "",
+      "_id": "eKaBXMVq1lxduJka",
+      "text": "10.000 Cr.",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": 0,
+      "weight": 1,
+      "range": [
+        5,
+        6
+      ],
+      "drawn": false,
+      "documentCollection": "",
+      "_id": "1G2bGaYAkIa8WCGL",
+      "text": "100.000 Cr.",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    }
+  ],
+  "formula": "1d6",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {
+    "exportSource": {
+      "world": "uri-cantus-3200",
+      "system": "swnr",
+      "coreVersion": "11.315",
+      "systemVersion": "1.1.0"
+    }
+  },
+  "_stats": {
+    "systemId": "swnr",
+    "systemVersion": "1.0.1",
+    "coreVersion": "10.291",
+    "createdTime": 1680214555848,
+    "modifiedTime": 1680214589358,
+    "lastModifiedBy": "f8lz1Jd4EDV7xJ6B"
+  }
+}

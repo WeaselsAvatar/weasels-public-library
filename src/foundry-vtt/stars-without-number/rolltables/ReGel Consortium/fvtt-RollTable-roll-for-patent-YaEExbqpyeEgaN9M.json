@@ -1,0 +1,87 @@
+{
+  "folder": "wbBLupfo5D3b6P3u",
+  "name": "Roll-for-patent",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "results": [
+    {
+      "type": 0,
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "documentCollection": "",
+      "_id": "nGICHZLGd52LHqzE",
+      "text": "Es wurde entdeckt:",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": 1,
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "documentCollection": "RollTable",
+      "_id": "UU5eJrsUMcwloAvl",
+      "text": "Patente",
+      "img": "icons/svg/d20-grey.svg",
+      "documentId": "rU70xjzfC9RZErSM",
+      "flags": {}
+    },
+    {
+      "type": 1,
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "documentCollection": "RollTable",
+      "_id": "ZWL3TZzbW2CmCcPy",
+      "text": "Generierter Wert",
+      "img": "icons/svg/d20-grey.svg",
+      "documentId": "kIYo6UniPkphmcOA",
+      "flags": {}
+    },
+    {
+      "type": 1,
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "documentCollection": "RollTable",
+      "_id": "vyXzqr1Hp7eMKFOa",
+      "text": "Produktreife",
+      "img": "icons/svg/d20-grey.svg",
+      "documentId": "fCmRK5ToVf26H9Wc",
+      "flags": {}
+    }
+  ],
+  "formula": "1",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {
+    "exportSource": {
+      "world": "uri-cantus-3200",
+      "system": "swnr",
+      "coreVersion": "11.315",
+      "systemVersion": "1.1.0"
+    }
+  },
+  "_stats": {
+    "systemId": "swnr",
+    "systemVersion": "1.0.1",
+    "coreVersion": "10.291",
+    "createdTime": 1680214632645,
+    "modifiedTime": 1680216464494,
+    "lastModifiedBy": "f8lz1Jd4EDV7xJ6B"
+  }
+}

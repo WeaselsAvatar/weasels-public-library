@@ -1,0 +1,57 @@
+{
+  "folder": "f1Z202ddCX6Odfrp",
+  "name": "An encounter amongst the stars",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "results": [
+    {
+      "type": 0,
+      "weight": 1,
+      "range": [
+        1,
+        4
+      ],
+      "drawn": false,
+      "documentCollection": "",
+      "_id": "vrzW4TgiQCpw6Wj7",
+      "text": "Nothing",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": 1,
+      "weight": 1,
+      "range": [
+        5,
+        5
+      ],
+      "drawn": false,
+      "documentCollection": "RollTable",
+      "_id": "lIqwiQmzK606YQbM",
+      "text": "Space Happens",
+      "img": "icons/svg/d20-grey.svg",
+      "documentId": "JROLK9GdOZu6qK0u",
+      "flags": {}
+    }
+  ],
+  "formula": "1d5",
+  "replacement": true,
+  "displayRoll": false,
+  "flags": {
+    "exportSource": {
+      "world": "uri-cantus-3200",
+      "system": "swnr",
+      "coreVersion": "11.315",
+      "systemVersion": "1.1.0"
+    }
+  },
+  "_stats": {
+    "systemId": "swnr",
+    "systemVersion": "1.0.1",
+    "coreVersion": "10.291",
+    "createdTime": 1680002752919,
+    "modifiedTime": 1685389329430,
+    "lastModifiedBy": "f8lz1Jd4EDV7xJ6B"
+  }
+}

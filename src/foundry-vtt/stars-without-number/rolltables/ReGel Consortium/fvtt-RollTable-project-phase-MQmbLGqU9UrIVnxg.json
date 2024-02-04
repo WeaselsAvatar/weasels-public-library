@@ -1,0 +1,192 @@
+{
+  "folder": "wbBLupfo5D3b6P3u",
+  "name": "Project Phase",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "results": [
+    {
+      "type": 0,
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "drawn": false,
+      "documentCollection": "",
+      "_id": "tAneqnkFNOSt3S0n",
+      "text": "Katastrophaler Misserfolg. Dieses Projekt führt zu nichts (Thema vorzeitig beendet)",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": 0,
+      "weight": 1,
+      "range": [
+        3,
+        4
+      ],
+      "drawn": false,
+      "documentCollection": "",
+      "_id": "DA6SBPzbh92tcaj0",
+      "text": "Misserfolg mit Komplikation:",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": 1,
+      "weight": 1,
+      "range": [
+        3,
+        4
+      ],
+      "drawn": false,
+      "documentCollection": "RollTable",
+      "_id": "X7GqZv7bsaUdPavq",
+      "text": "Komplikation",
+      "img": "icons/svg/d20-grey.svg",
+      "documentId": "aA6DlTO4ygUsCU0k",
+      "flags": {}
+    },
+    {
+      "type": 0,
+      "weight": 1,
+      "range": [
+        5,
+        5
+      ],
+      "drawn": false,
+      "documentCollection": "",
+      "_id": "bSQL4WLYfDCFcqie",
+      "text": "Misserfolg",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": 0,
+      "weight": 1,
+      "range": [
+        6,
+        8
+      ],
+      "drawn": false,
+      "documentCollection": "",
+      "_id": "qJlDfjqXdHmGvZ6I",
+      "text": "Erfolg mit Komplikation:",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": 1,
+      "weight": 1,
+      "range": [
+        6,
+        8
+      ],
+      "drawn": false,
+      "documentCollection": "RollTable",
+      "_id": "7fuW3YopLF6ALVBA",
+      "text": "Komplikation",
+      "img": "icons/svg/d20-grey.svg",
+      "documentId": "aA6DlTO4ygUsCU0k",
+      "flags": {}
+    },
+    {
+      "type": 0,
+      "weight": 1,
+      "range": [
+        9,
+        9
+      ],
+      "drawn": false,
+      "documentCollection": "",
+      "_id": "WMg6BYjJRPRk1HnH",
+      "text": "Erfolg",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": 0,
+      "weight": 1,
+      "range": [
+        10,
+        10
+      ],
+      "drawn": false,
+      "documentCollection": "",
+      "_id": "aLL7dy3dLnzs1BXW",
+      "text": "Erfolg. Die Ergebnisse geben eine permanenten Skillbonus von +1",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": 0,
+      "weight": 1,
+      "range": [
+        11,
+        11
+      ],
+      "drawn": false,
+      "documentCollection": "",
+      "_id": "97OWvOHwh33S0Spq",
+      "text": "Erfolg. Die Ergebnisse geben eine permanenten Skillbonus von +2",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": 0,
+      "weight": 1,
+      "range": [
+        12,
+        12
+      ],
+      "drawn": false,
+      "documentCollection": "",
+      "_id": "dYGipzSKcxHnvvHp",
+      "text": "Durchbruch. Die Ergebnisse liefern grandiose Erkenntnisse. Das Patent ist:",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": 1,
+      "weight": 1,
+      "range": [
+        12,
+        12
+      ],
+      "drawn": false,
+      "documentCollection": "RollTable",
+      "_id": "6Jw7zlpjPc9C41pY",
+      "text": "Roll-for-patent",
+      "img": "icons/svg/d20-grey.svg",
+      "documentId": "YaEExbqpyeEgaN9M",
+      "flags": {}
+    }
+  ],
+  "formula": "2d6",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {
+    "exportSource": {
+      "world": "uri-cantus-3200",
+      "system": "swnr",
+      "coreVersion": "11.315",
+      "systemVersion": "1.1.0"
+    }
+  },
+  "_stats": {
+    "systemId": "swnr",
+    "systemVersion": "1.0.1",
+    "coreVersion": "10.291",
+    "createdTime": 1680213186494,
+    "modifiedTime": 1680216134347,
+    "lastModifiedBy": "f8lz1Jd4EDV7xJ6B"
+  }
+}

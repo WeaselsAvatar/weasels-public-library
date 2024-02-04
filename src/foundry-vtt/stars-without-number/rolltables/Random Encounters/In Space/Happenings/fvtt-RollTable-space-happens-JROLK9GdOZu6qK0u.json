@@ -1,0 +1,357 @@
+{
+  "folder": "QLVIh2j4j3wMRQpa",
+  "name": "Space Happens",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "results": [
+    {
+      "type": 0,
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "documentCollection": "",
+      "_id": "MDoAdhfh2qnXFQmU",
+      "text": "The sip is attacked by pirates",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": 1,
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "documentCollection": "RollTable",
+      "_id": "0UPwCtSGFnp2vAHn",
+      "text": "Ship Encounter",
+      "img": "icons/svg/d20-grey.svg",
+      "documentId": "x3r5XDUi4VmSL1O2",
+      "flags": {}
+    },
+    {
+      "type": 0,
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "drawn": false,
+      "documentCollection": "",
+      "_id": "uXDV6XkENlT04zYw",
+      "text": "An old ship. Maybe there is something to get here?",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": 0,
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "drawn": false,
+      "documentCollection": "",
+      "_id": "qcllPjQmQwmuYw6r",
+      "text": "A Trade ship",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": 0,
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "drawn": false,
+      "documentCollection": "",
+      "_id": "lIni71PoujvuynxK",
+      "text": "An Emergency Signal by another Ship. The detour costs two days",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": 0,
+      "weight": 1,
+      "range": [
+        5,
+        5
+      ],
+      "drawn": false,
+      "documentCollection": "",
+      "_id": "mSC02iNNJIbi1yTu",
+      "text": "Another ship needs technical assistance",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": 0,
+      "weight": 1,
+      "range": [
+        6,
+        6
+      ],
+      "drawn": false,
+      "documentCollection": "",
+      "_id": "aLzJUCVYOJMkodLP",
+      "text": "Local authorities stop the ship for some bullshit reason",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": 0,
+      "weight": 1,
+      "range": [
+        7,
+        7
+      ],
+      "drawn": false,
+      "documentCollection": "",
+      "_id": "slShSg9TrdDWYnjO",
+      "text": "Two smuggler ships are doing a deal and do not want to be disturbed",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": 0,
+      "weight": 1,
+      "range": [
+        8,
+        8
+      ],
+      "drawn": false,
+      "documentCollection": "",
+      "_id": "h1euCi6jkeZPZIMK",
+      "text": "A foreign object threatens to hit the ship. Dex/Pilot(10) to evade",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": 0,
+      "weight": 1,
+      "range": [
+        9,
+        9
+      ],
+      "drawn": false,
+      "documentCollection": "",
+      "_id": "GwedcPuuAjiQgCIk",
+      "text": "Another ship is being attacked by pirates and needs help",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": 1,
+      "weight": 1,
+      "range": [
+        9,
+        9
+      ],
+      "drawn": false,
+      "documentCollection": "RollTable",
+      "_id": "5vokjh6B0e6Mi6hz",
+      "text": "Ship Encounter",
+      "img": "icons/svg/d20-grey.svg",
+      "documentId": "x3r5XDUi4VmSL1O2",
+      "flags": {}
+    },
+    {
+      "type": 1,
+      "weight": 1,
+      "range": [
+        9,
+        9
+      ],
+      "drawn": false,
+      "documentCollection": "RollTable",
+      "_id": "c8KZUcRsFiKrnNlW",
+      "text": "Ship Encounter",
+      "img": "icons/svg/d20-grey.svg",
+      "documentId": "x3r5XDUi4VmSL1O2",
+      "flags": {}
+    },
+    {
+      "type": 0,
+      "weight": 1,
+      "range": [
+        10,
+        10
+      ],
+      "drawn": false,
+      "documentCollection": "",
+      "_id": "GEcm10LwdJDN3gAF",
+      "text": "The ship gets stopped by a patrol for \"contraband\". They are looking for a bribe",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": 0,
+      "weight": 1,
+      "range": [
+        11,
+        11
+      ],
+      "drawn": false,
+      "documentCollection": "",
+      "_id": "9JXdqmVLBSgaxfwC",
+      "text": "A ship from the competition is looking for trouble / wants to trade",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": 0,
+      "weight": 1,
+      "range": [
+        12,
+        12
+      ],
+      "drawn": false,
+      "documentCollection": "",
+      "_id": "c1a6AzhjqOWyHqd6",
+      "text": "An old cache of spare parts containing",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": 0,
+      "weight": 1,
+      "range": [
+        13,
+        13
+      ],
+      "drawn": false,
+      "documentCollection": "",
+      "_id": "yz0iGbKd91NnYF9e",
+      "text": "An EM pulse messes up the navigation system. Investigation indicates a technological, non-human source",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": 0,
+      "weight": 1,
+      "range": [
+        14,
+        14
+      ],
+      "drawn": false,
+      "documentCollection": "",
+      "_id": "9KyVvdzhEFkMIqKs",
+      "text": "A weak radio signal indicates something valuable in the vincinity",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": 0,
+      "weight": 1,
+      "range": [
+        15,
+        15
+      ],
+      "drawn": false,
+      "documentCollection": "",
+      "_id": "3C6dc6gqXTEQjrns",
+      "text": "The ship drops right into a fight between local authorities and criminals",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": 1,
+      "weight": 1,
+      "range": [
+        15,
+        15
+      ],
+      "drawn": false,
+      "documentCollection": "RollTable",
+      "_id": "uKygcvVO9ph3FIrK",
+      "text": "Ship Encounter",
+      "img": "icons/svg/d20-grey.svg",
+      "documentId": "x3r5XDUi4VmSL1O2",
+      "flags": {}
+    },
+    {
+      "type": 1,
+      "weight": 1,
+      "range": [
+        15,
+        15
+      ],
+      "drawn": false,
+      "documentCollection": "RollTable",
+      "_id": "P9HAReGiJ5p7Gw0w",
+      "text": "Ship Encounter",
+      "img": "icons/svg/d20-grey.svg",
+      "documentId": "x3r5XDUi4VmSL1O2",
+      "flags": {}
+    },
+    {
+      "type": 1,
+      "weight": 1,
+      "range": [
+        12,
+        12
+      ],
+      "drawn": false,
+      "documentCollection": "RollTable",
+      "_id": "o9sc0hadTXKsxNOu",
+      "text": "Roll For Loot",
+      "img": "icons/svg/d20-grey.svg",
+      "documentId": "Qb6LRCZtwZEBN3XD",
+      "flags": {}
+    },
+    {
+      "type": 1,
+      "weight": 1,
+      "range": [
+        16,
+        16
+      ],
+      "drawn": false,
+      "documentCollection": "RollTable",
+      "_id": "4A1G8dcKmnLRa5PW",
+      "text": "Emerald Sword",
+      "img": "icons/svg/d20-grey.svg",
+      "documentId": "T1FPoS6CpSYszlfp",
+      "flags": {}
+    }
+  ],
+  "formula": "1d16",
+  "replacement": true,
+  "displayRoll": false,
+  "flags": {
+    "exportSource": {
+      "world": "uri-cantus-3200",
+      "system": "swnr",
+      "coreVersion": "11.315",
+      "systemVersion": "1.1.0"
+    }
+  },
+  "_stats": {
+    "systemId": "swnr",
+    "systemVersion": "1.0.1",
+    "coreVersion": "10.291",
+    "createdTime": 1680001875848,
+    "modifiedTime": 1685370680908,
+    "lastModifiedBy": "f8lz1Jd4EDV7xJ6B"
+  }
+}

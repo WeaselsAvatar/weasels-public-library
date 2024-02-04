@@ -1,0 +1,222 @@
+{
+  "folder": "vcejnYfeF9pb1q7G",
+  "name": "New Shipwreck",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "results": [
+    {
+      "type": 1,
+      "weight": 1,
+      "range": [
+        1,
+        100
+      ],
+      "drawn": false,
+      "documentCollection": "RollTable",
+      "_id": "5RAxgshUpAAS0skT",
+      "text": "Starship Name",
+      "img": "icons/svg/d20-grey.svg",
+      "documentId": "OxVYeSxgT6JdWOtx",
+      "flags": {}
+    },
+    {
+      "type": 0,
+      "weight": 1,
+      "range": [
+        1,
+        20
+      ],
+      "drawn": false,
+      "documentCollection": "",
+      "_id": "5OXAy9heHQVBkkxl",
+      "text": "A Strike Fighter",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": 0,
+      "weight": 1,
+      "range": [
+        21,
+        40
+      ],
+      "drawn": false,
+      "documentCollection": "",
+      "_id": "nfS0xffS3tEAqgme",
+      "text": "A Shuttle",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": 0,
+      "weight": 1,
+      "range": [
+        41,
+        60
+      ],
+      "drawn": false,
+      "documentCollection": "",
+      "_id": "pYaEs5bb6syxUIGz",
+      "text": "A Free Merchant",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": 0,
+      "weight": 1,
+      "range": [
+        61,
+        75
+      ],
+      "drawn": false,
+      "documentCollection": "",
+      "_id": "8mwK94Znjns4hLs7",
+      "text": "A Patrol Boat",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": 0,
+      "weight": 1,
+      "range": [
+        76,
+        85
+      ],
+      "drawn": false,
+      "documentCollection": "",
+      "_id": "TksgIsWz1FbztQ03",
+      "text": "A Corvette",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": 0,
+      "weight": 1,
+      "range": [
+        86,
+        90
+      ],
+      "drawn": false,
+      "documentCollection": "",
+      "_id": "kD8pN7xx2wOt6VJK",
+      "text": "A Heavy Frigate",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": 0,
+      "weight": 1,
+      "range": [
+        91,
+        93
+      ],
+      "drawn": false,
+      "documentCollection": "",
+      "_id": "GSFsZAA1rjfUrPba",
+      "text": "A Bulk Freighter",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": 0,
+      "weight": 1,
+      "range": [
+        94,
+        95
+      ],
+      "drawn": false,
+      "documentCollection": "",
+      "_id": "GXgmO80VIeG0XgRe",
+      "text": "A Fleet Cruiser",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": 0,
+      "weight": 1,
+      "range": [
+        96,
+        97
+      ],
+      "drawn": false,
+      "documentCollection": "",
+      "_id": "EvOBbWH14uuwS13O",
+      "text": "A Battleship",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": 0,
+      "weight": 1,
+      "range": [
+        98,
+        98
+      ],
+      "drawn": false,
+      "documentCollection": "",
+      "_id": "Clp6Pk8kMdPw5ZvY",
+      "text": "A Carrier",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": 0,
+      "weight": 1,
+      "range": [
+        99,
+        99
+      ],
+      "drawn": false,
+      "documentCollection": "",
+      "_id": "xsEMpymqpeG0jEB9",
+      "text": "A Small Station",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": 0,
+      "weight": 1,
+      "range": [
+        100,
+        100
+      ],
+      "drawn": false,
+      "documentCollection": "",
+      "_id": "clem709X6cuumZ87",
+      "text": "A Large Station",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    }
+  ],
+  "formula": "1d100",
+  "replacement": true,
+  "displayRoll": false,
+  "flags": {
+    "exportSource": {
+      "world": "uri-cantus-3200",
+      "system": "swnr",
+      "coreVersion": "11.315",
+      "systemVersion": "1.1.0"
+    }
+  },
+  "_stats": {
+    "systemId": "swnr",
+    "systemVersion": "1.0.1",
+    "coreVersion": "10.291",
+    "createdTime": 1684955835192,
+    "modifiedTime": 1685042519769,
+    "lastModifiedBy": "f8lz1Jd4EDV7xJ6B"
+  }
+}

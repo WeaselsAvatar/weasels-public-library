@@ -1,0 +1,102 @@
+{
+  "folder": "cQfHAKjv6XfdwmCr",
+  "name": "Loot Trap",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "results": [
+    {
+      "type": 0,
+      "weight": 1,
+      "range": [
+        1,
+        6
+      ],
+      "drawn": false,
+      "documentCollection": "",
+      "_id": "gsphuFCOYZIvXcz2",
+      "text": "The loot is not trapped",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": 0,
+      "weight": 1,
+      "range": [
+        7,
+        7
+      ],
+      "drawn": false,
+      "documentCollection": "",
+      "_id": "nJcn5GwWWtRS5Fcd",
+      "text": "The loot is trapped with a Space Mine. Attaches to the ship and explodes when the drives ignite, causing a random Ship Crisis. Int/Fix(10) to disable",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": 0,
+      "weight": 1,
+      "range": [
+        8,
+        8
+      ],
+      "drawn": false,
+      "documentCollection": "",
+      "_id": "fEY1rxcdp5IlNk3T",
+      "text": "The loot is trapped with an Automated Laser turret. Treat as a ship with a Multifocal laser with 1 CP",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": 0,
+      "weight": 1,
+      "range": [
+        9,
+        9
+      ],
+      "drawn": false,
+      "documentCollection": "",
+      "_id": "CTeLm1JJfK78fzeb",
+      "text": "The loot is trapped with an Automated Reaper turret. Treat as a ship with a Reaper Battery with 1 CP",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": 0,
+      "weight": 1,
+      "range": [
+        10,
+        10
+      ],
+      "drawn": false,
+      "documentCollection": "",
+      "_id": "cvEb5vVGkmYM2iNo",
+      "text": "The loot is trapped with an EM-Charge. Causes one random system to fail. Int/Fix(10) to disable",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    }
+  ],
+  "formula": "1d10",
+  "replacement": true,
+  "displayRoll": false,
+  "flags": {
+    "exportSource": {
+      "world": "uri-cantus-3200",
+      "system": "swnr",
+      "coreVersion": "11.315",
+      "systemVersion": "1.1.0"
+    }
+  },
+  "_stats": {
+    "systemId": "swnr",
+    "systemVersion": "1.0.1",
+    "coreVersion": "10.291",
+    "createdTime": 1680005275195,
+    "modifiedTime": 1680005920549,
+    "lastModifiedBy": "f8lz1Jd4EDV7xJ6B"
+  }
+}

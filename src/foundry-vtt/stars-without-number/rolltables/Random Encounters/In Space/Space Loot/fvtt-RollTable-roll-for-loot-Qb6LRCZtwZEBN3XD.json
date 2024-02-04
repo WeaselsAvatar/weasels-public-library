@@ -1,0 +1,87 @@
+{
+  "folder": "cQfHAKjv6XfdwmCr",
+  "name": "Roll For Loot",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "results": [
+    {
+      "type": 0,
+      "weight": 1,
+      "range": [
+        1,
+        10
+      ],
+      "drawn": false,
+      "documentCollection": "",
+      "_id": "jDXPOmQLBRWyGVnr",
+      "text": "The cache contains",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": 1,
+      "weight": 1,
+      "range": [
+        1,
+        9
+      ],
+      "drawn": false,
+      "documentCollection": "RollTable",
+      "_id": "LOMo6XQ9CWj2nmSI",
+      "text": "Normal Stuff",
+      "img": "icons/svg/d20-grey.svg",
+      "documentId": "6TaODMpq0bQmmaV8",
+      "flags": {}
+    },
+    {
+      "type": 1,
+      "weight": 1,
+      "range": [
+        10,
+        10
+      ],
+      "drawn": false,
+      "documentCollection": "RollTable",
+      "_id": "nESLQNOUkK2qGqMy",
+      "text": "Rare Stuff",
+      "img": "icons/svg/d20-grey.svg",
+      "documentId": "MhFroA7aRxphtUm6",
+      "flags": {}
+    },
+    {
+      "type": 1,
+      "weight": 1,
+      "range": [
+        1,
+        10
+      ],
+      "drawn": false,
+      "documentCollection": "RollTable",
+      "_id": "OclAaNEyqRiW3W7u",
+      "text": "Loot Trap",
+      "img": "icons/svg/d20-grey.svg",
+      "documentId": "UvprFiJbxRMS6h9T",
+      "flags": {}
+    }
+  ],
+  "formula": "1d10",
+  "replacement": true,
+  "displayRoll": false,
+  "flags": {
+    "exportSource": {
+      "world": "uri-cantus-3200",
+      "system": "swnr",
+      "coreVersion": "11.315",
+      "systemVersion": "1.1.0"
+    }
+  },
+  "_stats": {
+    "systemId": "swnr",
+    "systemVersion": "1.0.1",
+    "coreVersion": "10.291",
+    "createdTime": 1680005665521,
+    "modifiedTime": 1680007202634,
+    "lastModifiedBy": "f8lz1Jd4EDV7xJ6B"
+  }
+}

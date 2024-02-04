@@ -1,0 +1,57 @@
+{
+  "folder": "vcejnYfeF9pb1q7G",
+  "name": "Create Bees",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "This is a table to raise new bees. One roll costs 5000Cr. in \"Honey\".\n\nThe players hatch:",
+  "results": [
+    {
+      "type": 0,
+      "weight": 1,
+      "range": [
+        20,
+        20
+      ],
+      "drawn": false,
+      "documentCollection": "",
+      "_id": "QR2gRlx3TSkBzEod",
+      "text": "A Queen",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": 0,
+      "weight": 1,
+      "range": [
+        1,
+        20
+      ],
+      "drawn": false,
+      "documentCollection": "",
+      "_id": "u8YLEkdKVxUGuBfJ",
+      "text": "[[1d10]] Bees",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    }
+  ],
+  "formula": "1d20",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {
+    "exportSource": {
+      "world": "uri-cantus-3200",
+      "system": "swnr",
+      "coreVersion": "11.315",
+      "systemVersion": "1.1.0"
+    }
+  },
+  "_stats": {
+    "systemId": "swnr",
+    "systemVersion": "1.0.1",
+    "coreVersion": "10.291",
+    "createdTime": 1684955367030,
+    "modifiedTime": 1684955789518,
+    "lastModifiedBy": "f8lz1Jd4EDV7xJ6B"
+  }
+}

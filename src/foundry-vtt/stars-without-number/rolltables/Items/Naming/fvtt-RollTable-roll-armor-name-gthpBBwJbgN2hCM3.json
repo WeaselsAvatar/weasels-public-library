@@ -1,0 +1,57 @@
+{
+  "folder": "G9stsAPwOrqFSknx",
+  "name": "Roll Armor Name",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "results": [
+    {
+      "type": 1,
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "documentCollection": "RollTable",
+      "_id": "4L2zfpCf7QtVBMKT",
+      "text": "Supplier Name",
+      "img": "icons/svg/d20-grey.svg",
+      "documentId": "hsX7YgYbuZ94WHvA",
+      "flags": {}
+    },
+    {
+      "type": 1,
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "documentCollection": "RollTable",
+      "_id": "in05uQnwVrZgGKq7",
+      "text": "Armor Names",
+      "img": "icons/svg/d20-grey.svg",
+      "documentId": "VFlVdAMvUEcGcdTM",
+      "flags": {}
+    }
+  ],
+  "formula": "1",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {
+    "exportSource": {
+      "world": "uri-cantus-3200",
+      "system": "swnr",
+      "coreVersion": "11.315",
+      "systemVersion": "1.1.0"
+    }
+  },
+  "_stats": {
+    "systemId": "swnr",
+    "systemVersion": "1.0.1",
+    "coreVersion": "10.291",
+    "createdTime": 1680354998500,
+    "modifiedTime": 1684950690969,
+    "lastModifiedBy": "f8lz1Jd4EDV7xJ6B"
+  }
+}

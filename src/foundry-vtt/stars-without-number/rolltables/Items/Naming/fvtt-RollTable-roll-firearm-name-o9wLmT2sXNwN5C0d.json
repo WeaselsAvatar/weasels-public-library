@@ -1,0 +1,87 @@
+{
+  "folder": "G9stsAPwOrqFSknx",
+  "name": "Roll Firearm Name",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "results": [
+    {
+      "type": 1,
+      "weight": 1,
+      "range": [
+        1,
+        2
+      ],
+      "drawn": false,
+      "documentCollection": "RollTable",
+      "_id": "Xd7rp7oOyjmZgBgS",
+      "text": "Supplier Name",
+      "img": "icons/svg/d20-grey.svg",
+      "documentId": "hsX7YgYbuZ94WHvA",
+      "flags": {}
+    },
+    {
+      "type": 1,
+      "weight": 1,
+      "range": [
+        1,
+        2
+      ],
+      "drawn": false,
+      "documentCollection": "RollTable",
+      "_id": "NQe1DulJasmE2neG",
+      "text": "Firearm Names",
+      "img": "icons/svg/d20-grey.svg",
+      "documentId": "AQ7gF7fcvGsGW4nH",
+      "flags": {}
+    },
+    {
+      "type": 0,
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "documentCollection": "",
+      "_id": "CRVFm5YKwuvNS7n8",
+      "text": "[[1d5+4]]mm",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": 0,
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "drawn": false,
+      "documentCollection": "",
+      "_id": "BqQFHuyXo1AoVtmz",
+      "text": "Cal. [[1d30+20]]",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    }
+  ],
+  "formula": "1d2",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {
+    "exportSource": {
+      "world": "uri-cantus-3200",
+      "system": "swnr",
+      "coreVersion": "11.315",
+      "systemVersion": "1.1.0"
+    }
+  },
+  "_stats": {
+    "systemId": "swnr",
+    "systemVersion": "1.0.1",
+    "coreVersion": "10.291",
+    "createdTime": 1680208559646,
+    "modifiedTime": 1685369808894,
+    "lastModifiedBy": "f8lz1Jd4EDV7xJ6B"
+  }
+}

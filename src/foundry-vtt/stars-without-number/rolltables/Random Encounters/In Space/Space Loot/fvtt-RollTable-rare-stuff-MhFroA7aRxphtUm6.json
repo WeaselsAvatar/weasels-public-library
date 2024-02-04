@@ -1,0 +1,207 @@
+{
+  "folder": "cQfHAKjv6XfdwmCr",
+  "name": "Rare Stuff",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "results": [
+    {
+      "type": 2,
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "text": "Advanced nav computer",
+      "img": "systems/swnr/assets/icons/game-icons.net/item-icons/gps.svg",
+      "documentCollection": "swnr.ship-fitting",
+      "documentId": "yp2kkmhr2n7iwqja",
+      "_id": "x0qIDXhCzC12PhV2",
+      "flags": {}
+    },
+    {
+      "type": 2,
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "drawn": false,
+      "text": "Auto-targeting system",
+      "img": "systems/swnr/assets/icons/game-icons.net/item-icons/power-generator.svg",
+      "documentCollection": "swnr.ship-fitting",
+      "documentId": "eulen6e90njb77dn",
+      "_id": "uqPRxupyl9eV23Nk",
+      "flags": {}
+    },
+    {
+      "type": 2,
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "drawn": false,
+      "text": "Drive-2 upgrade",
+      "img": "systems/swnr/assets/icons/game-icons.net/item-icons/rocket-thruster.svg",
+      "documentCollection": "swnr.ship-fitting",
+      "documentId": "oa40es1caqdnzia6",
+      "_id": "Syywm1OUpXZI8iDF",
+      "flags": {}
+    },
+    {
+      "type": 2,
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "drawn": false,
+      "text": "Sensor mask",
+      "img": "systems/swnr/assets/icons/game-icons.net/item-icons/power-generator.svg",
+      "documentCollection": "swnr.ship-fitting",
+      "documentId": "dj1rc6rdicl1bc25",
+      "_id": "yv7lJ3ZEdbGcgSCx",
+      "flags": {}
+    },
+    {
+      "type": 2,
+      "weight": 1,
+      "range": [
+        5,
+        5
+      ],
+      "drawn": false,
+      "text": "Plasma Beam",
+      "img": "systems/swnr/assets/icons/game-icons.net/item-icons/plasma-bolt.svg",
+      "documentCollection": "swnr.ship-weapon",
+      "documentId": "cozj7agr4x7axq9e",
+      "_id": "3zzzvNYJJlhxvsUG",
+      "flags": {}
+    },
+    {
+      "type": 2,
+      "weight": 1,
+      "range": [
+        6,
+        6
+      ],
+      "drawn": false,
+      "text": "Fractal Impact Charge",
+      "img": "systems/swnr/assets/icons/game-icons.net/item-icons/sinusoidal-beam.svg",
+      "documentCollection": "swnr.ship-weapon",
+      "documentId": "er7zetefqhkxe1uc",
+      "_id": "vmw8NtZMXfkjdkqd",
+      "flags": {}
+    },
+    {
+      "type": 0,
+      "weight": 1,
+      "range": [
+        7,
+        7
+      ],
+      "drawn": false,
+      "documentCollection": "",
+      "_id": "JiSXVNCnrlDCjonE",
+      "text": "[[1d3]] Pretech Components",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": 0,
+      "weight": 1,
+      "range": [
+        8,
+        8
+      ],
+      "drawn": false,
+      "documentCollection": "",
+      "_id": "ZSlyKyHbE6o1IooL",
+      "text": "[[1d3]] Pretech spare parts",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": 0,
+      "weight": 1,
+      "range": [
+        9,
+        9
+      ],
+      "drawn": false,
+      "documentCollection": "",
+      "_id": "iE9s65KEks6WhAmE",
+      "text": "A crate with [[1d2]]",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": 1,
+      "weight": 1,
+      "range": [
+        9,
+        9
+      ],
+      "drawn": false,
+      "documentCollection": "RollTable",
+      "_id": "RY7a94ih6lgg3nFS",
+      "text": "Less Shit Guns and Knives",
+      "img": "icons/svg/d20-grey.svg",
+      "documentId": "aTxLYQzT8jUvFFMq",
+      "flags": {}
+    },
+    {
+      "type": 0,
+      "weight": 1,
+      "range": [
+        10,
+        10
+      ],
+      "drawn": false,
+      "documentCollection": "",
+      "_id": "PCUmUoo4BQ0RR28U",
+      "text": "A crate with [[1d2]]",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": 1,
+      "weight": 1,
+      "range": [
+        10,
+        10
+      ],
+      "drawn": false,
+      "documentCollection": "RollTable",
+      "_id": "YJoeRVpuibzb2tiu",
+      "text": "Less Shit Armour",
+      "img": "icons/svg/d20-grey.svg",
+      "documentId": "qGld6CE9xQaOeG1X",
+      "flags": {}
+    }
+  ],
+  "formula": "1d10",
+  "replacement": true,
+  "displayRoll": false,
+  "flags": {
+    "exportSource": {
+      "world": "uri-cantus-3200",
+      "system": "swnr",
+      "coreVersion": "11.315",
+      "systemVersion": "1.1.0"
+    }
+  },
+  "_stats": {
+    "systemId": "swnr",
+    "systemVersion": "1.0.1",
+    "coreVersion": "10.291",
+    "createdTime": 1680003267355,
+    "modifiedTime": 1680007250744,
+    "lastModifiedBy": "f8lz1Jd4EDV7xJ6B"
+  }
+}

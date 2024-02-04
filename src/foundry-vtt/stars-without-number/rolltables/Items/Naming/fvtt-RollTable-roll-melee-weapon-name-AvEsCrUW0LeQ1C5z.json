@@ -1,0 +1,57 @@
+{
+  "folder": "G9stsAPwOrqFSknx",
+  "name": "Roll Melee Weapon Name",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "results": [
+    {
+      "type": 1,
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "documentCollection": "RollTable",
+      "_id": "Bb63yc8BKqNLfHoB",
+      "text": "Supplier Name",
+      "img": "icons/svg/d20-grey.svg",
+      "documentId": "hsX7YgYbuZ94WHvA",
+      "flags": {}
+    },
+    {
+      "type": 1,
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "documentCollection": "RollTable",
+      "_id": "kBOoiuBXSIg6ZPqo",
+      "text": "Melee Weapon Names",
+      "img": "icons/svg/d20-grey.svg",
+      "documentId": "5qynoPxIxu7T0AuY",
+      "flags": {}
+    }
+  ],
+  "formula": "1",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {
+    "exportSource": {
+      "world": "uri-cantus-3200",
+      "system": "swnr",
+      "coreVersion": "11.315",
+      "systemVersion": "1.1.0"
+    }
+  },
+  "_stats": {
+    "systemId": "swnr",
+    "systemVersion": "1.0.1",
+    "coreVersion": "10.291",
+    "createdTime": 1680208956715,
+    "modifiedTime": 1685370203842,
+    "lastModifiedBy": "f8lz1Jd4EDV7xJ6B"
+  }
+}

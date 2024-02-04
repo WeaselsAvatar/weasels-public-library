@@ -1,0 +1,327 @@
+{
+  "folder": "wbBLupfo5D3b6P3u",
+  "name": "Komplikation",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "results": [
+    {
+      "type": 0,
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "documentCollection": "",
+      "_id": "u8WxOpKk5t1dPkp3",
+      "text": "Forschungsergebnisse werden zerstört. -1 auf den finalen Skillcheck",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": 0,
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "drawn": false,
+      "documentCollection": "",
+      "_id": "wg9q4PoeFoT5Keww",
+      "text": "Notwendiges Equipment wird nicht rechtzeitig geliefert. Das Thema verlängert sich um einen Monat (zusätzlicher Check)",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": 0,
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "drawn": false,
+      "documentCollection": "",
+      "_id": "Vvqg7sz4V1iLJoNq",
+      "text": "Investoren werden ungeduldig und fordern Ergebnisse.",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": 0,
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "drawn": false,
+      "documentCollection": "",
+      "_id": "heFYN3VAbHauIwsH",
+      "text": "Experiment schlägt fehl und zerstört die Probe. Der gesamte Monat muss wiederholt werden (Kosten, Skillcheck, etc.)",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": 0,
+      "weight": 1,
+      "range": [
+        5,
+        5
+      ],
+      "drawn": false,
+      "documentCollection": "",
+      "_id": "sCnrZusRNMaKo9FK",
+      "text": "Organisierte Verbrecher versuchen, Schutzgeld zu erpressen oder Daten zu stehlen.",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": 0,
+      "weight": 1,
+      "range": [
+        6,
+        6
+      ],
+      "drawn": false,
+      "documentCollection": "",
+      "_id": "OG3DhFYYCVYLV54V",
+      "text": "Bei einem Einbruch wird wertvolle Ausrüstung gestohlen. Wenn sie nicht wieder beschafft wird, schlägt das Experiment fehl",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": 0,
+      "weight": 1,
+      "range": [
+        7,
+        7
+      ],
+      "drawn": false,
+      "documentCollection": "",
+      "_id": "oK9ulBym3WjDBQKd",
+      "text": "Jemand im Projekt unterschlägt Gelder. Monatliche Kosten steigen um 10%, bis der Schuldige gefunden ist.",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": 0,
+      "weight": 1,
+      "range": [
+        8,
+        8
+      ],
+      "drawn": false,
+      "documentCollection": "",
+      "_id": "8PBgcece46XEGoGX",
+      "text": "Leak. Forschungsergebnisse dringen nach außen. Ein mögliches Patent geht verloren.",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": 0,
+      "weight": 1,
+      "range": [
+        9,
+        9
+      ],
+      "drawn": false,
+      "documentCollection": "",
+      "_id": "XP4xSMbbrY3Nrxiw",
+      "text": "Eine Prüfung stellt Mängel fest und eine Genehmigung muss neu erteilt werden",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": 0,
+      "weight": 1,
+      "range": [
+        10,
+        10
+      ],
+      "drawn": false,
+      "documentCollection": "",
+      "_id": "0E7Ol50L5Bwz2ckV",
+      "text": "Im Team gibt es Konflikte (Streit, sexuelle Belästigung, Mobbing, etc.)",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": 0,
+      "weight": 1,
+      "range": [
+        11,
+        11
+      ],
+      "drawn": false,
+      "documentCollection": "",
+      "_id": "sRNFcTtJR7pxjpda",
+      "text": "Bei einem Experiment werden Teammitglieder verletzt. -1 auf den finalen Skillcheck",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": 0,
+      "weight": 1,
+      "range": [
+        12,
+        12
+      ],
+      "drawn": false,
+      "documentCollection": "",
+      "_id": "76xH1RE8v0Pp7o7I",
+      "text": "Ein Teammitglied spioniert für einen der Teilhaber und stiehlt Forschungsergebnisse, was zum Verlust des nächsten Patentes führt.",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": 0,
+      "weight": 1,
+      "range": [
+        13,
+        13
+      ],
+      "drawn": false,
+      "documentCollection": "",
+      "_id": "i3HPLGlUEw6slB15",
+      "text": "Jemand stellt Ergebnisse vor der Freigabe Open Source.",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": 0,
+      "weight": 1,
+      "range": [
+        14,
+        14
+      ],
+      "drawn": false,
+      "documentCollection": "",
+      "_id": "cGPjXRR7wlu557vc",
+      "text": "Setback. Das Projekt verlänget sich um zwei Monate",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": 0,
+      "weight": 1,
+      "range": [
+        15,
+        15
+      ],
+      "drawn": false,
+      "documentCollection": "",
+      "_id": "jx5luNox7YKvhUcC",
+      "text": "Schlechte Presse. DIe Förderung durch die Teilhaber wird reduziert",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": 0,
+      "weight": 1,
+      "range": [
+        16,
+        16
+      ],
+      "drawn": false,
+      "documentCollection": "",
+      "_id": "Gux0rVIZflAWCq2Q",
+      "text": "Ziviler Protest/Aktivismus.",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": 0,
+      "weight": 1,
+      "range": [
+        17,
+        17
+      ],
+      "drawn": false,
+      "documentCollection": "",
+      "_id": "A5rDipEvGelsgF9b",
+      "text": "Kriminelle infiltrieren das Projekt und nutzen Forschungsergebnisse für kriminelle Dinge",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": 0,
+      "weight": 1,
+      "range": [
+        18,
+        18
+      ],
+      "drawn": false,
+      "documentCollection": "",
+      "_id": "XVEfPYsAe7gE6ClU",
+      "text": "Neuer Vermieter. Es entstehen mögliche Folgekosten",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": 0,
+      "weight": 1,
+      "range": [
+        19,
+        19
+      ],
+      "drawn": false,
+      "documentCollection": "",
+      "_id": "8ZgIJEHtJZtJ6idG",
+      "text": "Durch fehlerhafte Auswertungen müssen wichtige Experimente wiederholt werden. Die Kosten verdoppeln sich.",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": 0,
+      "weight": 1,
+      "range": [
+        20,
+        20
+      ],
+      "drawn": false,
+      "documentCollection": "",
+      "_id": "Dzjzr8Y79BHwlGJ3",
+      "text": "Ein wichtiges Projektmitglied ist nicht mehr verfügbar (tot, krank, Firma verlassen). -1 Skillbonus (permanent)",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    }
+  ],
+  "formula": "1d20",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {
+    "exportSource": {
+      "world": "uri-cantus-3200",
+      "system": "swnr",
+      "coreVersion": "11.315",
+      "systemVersion": "1.1.0"
+    }
+  },
+  "_stats": {
+    "systemId": "swnr",
+    "systemVersion": "1.0.1",
+    "coreVersion": "10.291",
+    "createdTime": 1680212935348,
+    "modifiedTime": 1680216134347,
+    "lastModifiedBy": "f8lz1Jd4EDV7xJ6B"
+  }
+}

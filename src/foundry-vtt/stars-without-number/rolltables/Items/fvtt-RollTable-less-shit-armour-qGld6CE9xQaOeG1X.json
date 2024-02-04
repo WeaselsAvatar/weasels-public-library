@@ -1,0 +1,237 @@
+{
+  "folder": "d0smMgLSIHrDpnLi",
+  "name": "Less Shit Armour",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "results": [
+    {
+      "type": 0,
+      "weight": 1,
+      "range": [
+        1,
+        4
+      ],
+      "drawn": false,
+      "documentCollection": "",
+      "_id": "UyT1xZiTTmt8HkuC",
+      "text": "An Armoured Undersuit that",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": 0,
+      "weight": 1,
+      "range": [
+        5,
+        8
+      ],
+      "drawn": false,
+      "documentCollection": "",
+      "_id": "WmRxvHDDFa3RkZd7",
+      "text": "Secure Clothing that",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": 0,
+      "weight": 1,
+      "range": [
+        9,
+        13
+      ],
+      "drawn": false,
+      "documentCollection": "",
+      "_id": "2yDRChprs8JmPBy5",
+      "text": "Security Armour that",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": 0,
+      "weight": 1,
+      "range": [
+        14,
+        15
+      ],
+      "drawn": false,
+      "documentCollection": "",
+      "_id": "K5hutNHRm8r7NIaK",
+      "text": "An Icarus Harness that",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": 0,
+      "weight": 1,
+      "range": [
+        16,
+        17
+      ],
+      "drawn": false,
+      "documentCollection": "",
+      "_id": "X21kNf015tGAng3q",
+      "text": "An Armoured Vacc Suit that",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": 0,
+      "weight": 1,
+      "range": [
+        18,
+        22
+      ],
+      "drawn": false,
+      "documentCollection": "",
+      "_id": "pdytu65sQ6M5UgEW",
+      "text": "A Comabt Field Uniform that",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": 0,
+      "weight": 1,
+      "range": [
+        23,
+        24
+      ],
+      "drawn": false,
+      "documentCollection": "",
+      "_id": "DMjloglegT8r17GT",
+      "text": "A Force Pavis that",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": 0,
+      "weight": 1,
+      "range": [
+        25,
+        26
+      ],
+      "drawn": false,
+      "documentCollection": "",
+      "_id": "KHwt1gRs9VCRO5hS",
+      "text": "A Deflector Array that",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": 0,
+      "weight": 1,
+      "range": [
+        9,
+        9
+      ],
+      "drawn": false,
+      "documentCollection": "",
+      "_id": "NssMlpAKJQ59w0og",
+      "text": "",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": 0,
+      "weight": 1,
+      "range": [
+        27,
+        27
+      ],
+      "drawn": false,
+      "documentCollection": "",
+      "_id": "sJ8GgngqczMOJt0q",
+      "text": "An Assault Suit that",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": 0,
+      "weight": 1,
+      "range": [
+        28,
+        28
+      ],
+      "drawn": false,
+      "documentCollection": "",
+      "_id": "KX1sN7ffPXc3bR1L",
+      "text": "Storm Armour that",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": 0,
+      "weight": 1,
+      "range": [
+        29,
+        29
+      ],
+      "drawn": false,
+      "documentCollection": "",
+      "_id": "ukL0XQFNZVBzpd3t",
+      "text": "A Vestimentum that",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": 0,
+      "weight": 1,
+      "range": [
+        30,
+        30
+      ],
+      "drawn": false,
+      "documentCollection": "",
+      "_id": "5bGapuxS1Hj30Mnl",
+      "text": "A Field Emitter Panoply that",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": 1,
+      "weight": 1,
+      "range": [
+        1,
+        30
+      ],
+      "drawn": false,
+      "documentCollection": "RollTable",
+      "_id": "GIZJoGcwU0CJ7qfb",
+      "text": "Armour Effects",
+      "img": "icons/svg/d20-grey.svg",
+      "documentId": "7PFanXQYh7KULnND",
+      "flags": {}
+    }
+  ],
+  "formula": "1d30",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {
+    "exportSource": {
+      "world": "uri-cantus-3200",
+      "system": "swnr",
+      "coreVersion": "11.315",
+      "systemVersion": "1.1.0"
+    }
+  },
+  "_stats": {
+    "systemId": "swnr",
+    "systemVersion": "1.0.1",
+    "coreVersion": "10.291",
+    "createdTime": 1679940679233,
+    "modifiedTime": 1679941341289,
+    "lastModifiedBy": "f8lz1Jd4EDV7xJ6B"
+  }
+}

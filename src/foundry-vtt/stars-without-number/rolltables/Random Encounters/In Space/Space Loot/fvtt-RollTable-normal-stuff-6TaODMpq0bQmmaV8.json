@@ -1,0 +1,342 @@
+{
+  "folder": "cQfHAKjv6XfdwmCr",
+  "name": "Normal Stuff",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "results": [
+    {
+      "type": 0,
+      "weight": 1,
+      "range": [
+        1,
+        4
+      ],
+      "drawn": false,
+      "documentCollection": "",
+      "_id": "2tYfJIkWTfTZt6EW",
+      "text": "[[1d3]] crate(s), each with [[1d20]]",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": 2,
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "text": "Power cell, type A",
+      "img": "icons/svg/item-bag.svg",
+      "documentCollection": "swnr.all-items",
+      "documentId": "1CDZEpuo5biy4BSF",
+      "_id": "fMxp02k5k2Hfwmz8",
+      "flags": {}
+    },
+    {
+      "type": 2,
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "drawn": false,
+      "text": "Spare parts",
+      "img": "icons/svg/item-bag.svg",
+      "documentCollection": "swnr.all-items",
+      "documentId": "vORt8hqJkcq3sSJe",
+      "_id": "1orYQ1OwTA2bcZMZ",
+      "flags": {}
+    },
+    {
+      "type": 2,
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "drawn": false,
+      "text": "Trade goods",
+      "img": "icons/svg/item-bag.svg",
+      "documentCollection": "swnr.all-items",
+      "documentId": "ohlXZ5K9bzjIDu6z",
+      "_id": "O1APlKA65VGZ9KSZ",
+      "flags": {}
+    },
+    {
+      "type": 2,
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "drawn": false,
+      "text": "Glowbug",
+      "img": "icons/svg/item-bag.svg",
+      "documentCollection": "swnr.field-equipment",
+      "documentId": "ncn6S5o3BdO48lG9",
+      "_id": "1sxFL9ElQkro9ttF",
+      "flags": {}
+    },
+    {
+      "type": 0,
+      "weight": 1,
+      "range": [
+        5,
+        5
+      ],
+      "drawn": false,
+      "documentCollection": "",
+      "_id": "MopBFYYmP4raCS5t",
+      "text": "[[1d2]] crate(s), each with [[1d10]]",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": 2,
+      "weight": 1,
+      "range": [
+        5,
+        5
+      ],
+      "drawn": false,
+      "text": "Ammo, 20 rounds",
+      "img": "icons/svg/item-bag.svg",
+      "documentCollection": "swnr.all-items",
+      "documentId": "ewuZmVOY8mklei1E",
+      "_id": "ynFBOv7xnGpU4xgd",
+      "flags": {}
+    },
+    {
+      "type": 0,
+      "weight": 1,
+      "range": [
+        7,
+        8
+      ],
+      "drawn": false,
+      "documentCollection": "",
+      "_id": "Z4oQYwh0g7gI1QVw",
+      "text": "A crate with [[1d4]]",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": 2,
+      "weight": 1,
+      "range": [
+        7,
+        7
+      ],
+      "drawn": false,
+      "text": "Medkit",
+      "img": "icons/svg/item-bag.svg",
+      "documentCollection": "swnr.all-items",
+      "documentId": "3QT460dxtWJDNZt1",
+      "_id": "1O4zJcplvEE5ZXVr",
+      "flags": {}
+    },
+    {
+      "type": 2,
+      "weight": 1,
+      "range": [
+        8,
+        8
+      ],
+      "drawn": false,
+      "text": "Power cell, type B",
+      "img": "icons/svg/item-bag.svg",
+      "documentCollection": "swnr.all-items",
+      "documentId": "dJ0Ud5wzZ5JsNadf",
+      "_id": "qRlkZV2fMUexYCFZ",
+      "flags": {}
+    },
+    {
+      "type": 0,
+      "weight": 1,
+      "range": [
+        9,
+        16
+      ],
+      "drawn": false,
+      "documentCollection": "",
+      "_id": "9jmuAap2wlfPu0XP",
+      "text": "A crate with [[1d6]]",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": 2,
+      "weight": 1,
+      "range": [
+        9,
+        9
+      ],
+      "drawn": false,
+      "text": "Suit ripper",
+      "img": "icons/svg/item-bag.svg",
+      "documentCollection": "swnr.melee",
+      "documentId": "9nMuNOw7reLQnmWe",
+      "_id": "ztJzRxP39dTBuzuc",
+      "flags": {}
+    },
+    {
+      "type": 2,
+      "weight": 1,
+      "range": [
+        10,
+        10
+      ],
+      "drawn": false,
+      "text": "Small advanced weapon",
+      "img": "icons/svg/item-bag.svg",
+      "documentCollection": "swnr.melee",
+      "documentId": "srQ5rolw6XXiclrn",
+      "_id": "p0QjHFMnZKszm09s",
+      "flags": {}
+    },
+    {
+      "type": 2,
+      "weight": 1,
+      "range": [
+        11,
+        11
+      ],
+      "drawn": false,
+      "text": "Small advanced weapon",
+      "img": "icons/svg/item-bag.svg",
+      "documentCollection": "swnr.melee",
+      "documentId": "srQ5rolw6XXiclrn",
+      "_id": "EX0Y9oHvfD3KZtbE",
+      "flags": {}
+    },
+    {
+      "type": 2,
+      "weight": 1,
+      "range": [
+        12,
+        12
+      ],
+      "drawn": false,
+      "text": "Laser Pistol",
+      "img": "icons/svg/item-bag.svg",
+      "documentCollection": "swnr.ranged",
+      "documentId": "S69XOZtM17punHP7",
+      "_id": "as8YTYMYcfSojGSI",
+      "flags": {}
+    },
+    {
+      "type": 2,
+      "weight": 1,
+      "range": [
+        13,
+        13
+      ],
+      "drawn": false,
+      "text": "Laser Rifle",
+      "img": "icons/svg/item-bag.svg",
+      "documentCollection": "swnr.ranged",
+      "documentId": "TBWC7vnGuziN2Icf",
+      "_id": "DqjgCpT9x9bc22Kg",
+      "flags": {}
+    },
+    {
+      "type": 2,
+      "weight": 1,
+      "range": [
+        14,
+        14
+      ],
+      "drawn": false,
+      "text": "Mag Pistol",
+      "img": "icons/svg/item-bag.svg",
+      "documentCollection": "swnr.ranged",
+      "documentId": "CjFZh3CJVUUScEyx",
+      "_id": "e9mxfhsHNVVP98Nb",
+      "flags": {}
+    },
+    {
+      "type": 2,
+      "weight": 1,
+      "range": [
+        15,
+        15
+      ],
+      "drawn": false,
+      "text": "Semi-Auto Pistol",
+      "img": "icons/svg/item-bag.svg",
+      "documentCollection": "swnr.ranged",
+      "documentId": "1PZM9kVJVqDBhZNs",
+      "_id": "URB94erWVc7rK0rl",
+      "flags": {}
+    },
+    {
+      "type": 2,
+      "weight": 1,
+      "range": [
+        16,
+        16
+      ],
+      "drawn": false,
+      "text": "Shotgun",
+      "img": "icons/svg/item-bag.svg",
+      "documentCollection": "swnr.ranged",
+      "documentId": "AHEryJEovDpMVHuc",
+      "_id": "QJnSjzQrzDW4lHFg",
+      "flags": {}
+    },
+    {
+      "type": 0,
+      "weight": 1,
+      "range": [
+        6,
+        6
+      ],
+      "drawn": false,
+      "documentCollection": "",
+      "_id": "2tlnvfdjUVqpr4yH",
+      "text": "A crate with [[1d4]]",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": 2,
+      "weight": 1,
+      "range": [
+        6,
+        6
+      ],
+      "drawn": false,
+      "documentCollection": "swnr.field-equipment",
+      "_id": "p6RHWQCBeAGs6ytp",
+      "text": "Vacc suit",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": "wXAqbLF2a15jE84P",
+      "flags": {}
+    }
+  ],
+  "formula": "1d16",
+  "replacement": true,
+  "displayRoll": false,
+  "flags": {
+    "exportSource": {
+      "world": "uri-cantus-3200",
+      "system": "swnr",
+      "coreVersion": "11.315",
+      "systemVersion": "1.1.0"
+    }
+  },
+  "_stats": {
+    "systemId": "swnr",
+    "systemVersion": "1.0.1",
+    "coreVersion": "10.291",
+    "createdTime": 1680003770917,
+    "modifiedTime": 1680007171094,
+    "lastModifiedBy": "f8lz1Jd4EDV7xJ6B"
+  }
+}
