@@ -10,7 +10,7 @@ The minigame is designed to help keep track of the research and to provide rules
 
 The players need to know what they want to research. It has to be something specific not just "I want to know how this works". Then they need to find investors that are willing to throw money at a high-risk enterprise with an uncertain chance of even succeeding. The research can go horribly wrong but can also provide valuable patents for new technologies along the way.
 
-**Example**
+#### Example
 
 > *Trenton Cormac MacArthur*, former Minister of Defense and now starship captain, wants to know why the industrial substitute for ReGel, an alien substance used by the medical industry *and* an alien stardock in the system, is making the stardock "sick" when the original substance doesn't. Both substances are chemically identical, so there has to be something that makes ReGel special. He wants the Department for Biopsionics at the local university to have a look at it and needs to find people who are willing to finance such an endeavor for months or maybe even years. 
 
@@ -109,3 +109,31 @@ At the end of the project there is a skill check against the projects difficulty
 | 18   |        |
 | 19   |        |
 | 20   |        |
+
+#### Value from patents
+
+Apart from immediately returning the invested money, each patent generates a certain amount of value when it reaches marketable product stage.
+
+Products using the patent start to come out in
+
+|1d6|Die|1d6|Time frame|
+|:---:|---|:---:|---|
+|1|1d4|1|Months|
+|2|1d6|2|Months|
+|3|1d8|3|Months|
+|4|1d10|4|Years|
+|5|1d12|5|Years|
+|6|1d20|6|Decades|
+
+and generate
+
+|1d6|Credits|
+|:---:|---|
+|1|10.000 Cr.|
+|2|10.000 Cr.|
+|3|10.000 Cr.|
+|4|10.000 Cr.|
+|5|100.000 Cr.|
+|6|100.000 Cr.|
+
+a year.
