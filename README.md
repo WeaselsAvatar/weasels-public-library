@@ -14,4 +14,4 @@ A collection of random tables and other documentation for tabletop role-playing 
 
 The macro codes in `/src/foundry-vtt/macros` can be used in Foundry by copying the code into a [new macro](https://foundryvtt.com/article/macros/) (slight adaptions may be necessary).
 
-The roll tables (.json) in `/src/foundry-vtt/stars-without-number/rolltables` can be [imported](https://foundryvtt.com/article/roll-tables/) into any Foundry world (at least I think I didn't add specific compendium stuff to them). When using the tables from a folder I recommend importing all tables in the folder as most of them are dependent on each other.
+The roll tables in `/src/foundry-vtt/stars-without-number/rolltables` can be [imported](https://foundryvtt.com/article/roll-tables/) into any Foundry world using the [Stars Without Number / Cities Without Number](https://foundryvtt.com/packages/swnr) system . When using the tables from a folder I recommend importing all tables in the folder as most of them are dependent on each other.
