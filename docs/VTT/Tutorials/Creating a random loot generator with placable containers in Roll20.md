@@ -1,3 +1,7 @@
+---
+render_with_liquid: false
+---
+
 # Creating a random loot generator with placeable containers in Roll20
 
 ## Create your loot
