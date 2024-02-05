@@ -8,6 +8,8 @@ Nicht nur, dass es einen Ausweg aus dem "wenn ich eine schwerere Rüstung habe, 
 
 ## Die Grundlagen in Stichpunkten
 
+Die Rüstungsklasse (AC, Armor Class) in D&D und verwandten Systemen ist ein abstrakter Wert für die Schnelligkeit und Widerstandsfähigkeit eines Charakters, sprich, wie schwierig er oder sie zu verwunden ist.  
+
 - Aktuell kann man sich eine bessere "Rüstungszahl" einfach mit Geld kaufen.
 - Ein Schwert sollte gegen eine Schwere Rüstung nicht genauso effektiv sein wie ein Bec-de-Corbin
 - Schilde sollten besser sein
