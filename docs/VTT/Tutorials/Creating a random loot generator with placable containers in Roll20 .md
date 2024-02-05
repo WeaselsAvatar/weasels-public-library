@@ -20,9 +20,9 @@ Make the charater controllable by all players and set the loot ability as a toke
 
 ![Lootable character](../img/Gear-Lootable-Character.png)
 
-```javascript
+```text
 // roll n-times on loot table, where n is the number specified in bar1 of the currently selected token
-&{template:default} {{name=`Searching...found @{selected|bar1} items in @{selected|token_name}`}} {{found=[[@{selected|bar1}t[Gear-Loot]]]}} {{notiz=If container contains more than one item, check the output via mouse over}}
+&{template:default} {{name=Searching...found @{selected|bar1} items in @{selected|token_name}}} {{found=[[@{selected|bar1}t[Gear-Loot]]]}} {{notiz=If container contains more than one item, check the output via mouse over}}
 ```
 
 ## Bring it all together
