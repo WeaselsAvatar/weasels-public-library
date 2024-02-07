@@ -28,4 +28,18 @@ Das neue System ändert ein paar der oben genannten Grundlagen:
 Aus dem oberen Bild lässt sich gut erkennen, wie das System "Rüstung aufschlüsselt.
 
 1. Gestartet wird mit einem Wert von 0
-2. 
+2. Auf diesen Wert wird eine inhärente Trefferschwierigkeit von +5 addiert (inherent strike difficulty). Dies ist die Rüstungsklasse eines ungepanzerten, unbeweglichen Ziels, wie zum Beispiel einer Trainingspuppe.
+3. Aktives ausweichen addiert weitere +5 auf die Rüstungsklasse. Damit sind wir bei den normalen AC10 eines ungepanzerten Menschen. Hier können noch zusätzliche Boni wie der Dex-Bonus draufkommen. Wenn der Charakter überrascht ist, fällt der Dodge-Bonus weg.
+4. +8 Armour Bonus: Dieser Wert spiegelt eine vollständige Rüstung, inklusive Helm, Arm- und Beinschutz wider. Es ist egal, ob es sich hierbei um Leder oder Platte handelt, der Wert ist erstmal +8. Wenn man den Helm o.Ä weglässt, geht dieser Wert nach unten.
+5. +4 Schild-Bonus: Dieser Wert ist ein normaler Schild, ein Buckler wäre +2, ein Turmschild +6. Der Schild überlappt sich mit der Rüstung und verliert einen Punkt für je zwei Punkte Rüstung. Damit ist der Schild eher nützlich, wenn die Rüstung teilweise oder vollständig ineffektiv ist.
+
+Hier lässt sich auch erkennen, dass die *Art* der Rüstung nicht die Rüstungsklasse widerspiegelt. Stattdessen gibt sie an, wie *effektiv* die Rüstung gegen eine spezifische Art von Angriff ist.
+
+Damit ergeben sich unter Anderem die folgenden Zustände einer Rüstung:
+
+|Zustand|Armor Class|Bemerkung|
+|---|---|---|
+|Vollständig effektiv, volle Rüstung| AC 10[5 + 5 Dodge]+8[Volle Rüstung] = 18| Ich hab eine volle Rüstung und der Gegner hat keine für mich panzerbrechende Waffe...nice|
+|Vollständig effektiv, halbe Rüstung| AC 10[5 + 5 Dodge]+4[Halbe Rüstung] = 14|Könnte zum Beispiel eine Brustplatte mit Armschienen sein|
+|Teilweiser Durchschlag, volle Rüstung|AC 10[5 + 5 Dodge]+4[teilweise schützende Rüstung] = 14|Der Angreifer verwendet eine Waffe, gegen die die Rüstung nicht gut schützt|
+|Vollständiger Durchschlag|C 10[5 + 5 Dodge]+0[Rüstung ineffektiv] = 10|Der Gegner verwendet eine Waffe, die durch die Rüstung durchgeht wie durch Butter. Zum Beispiel ein schwere Keule gegen ein Kettenhemd|
