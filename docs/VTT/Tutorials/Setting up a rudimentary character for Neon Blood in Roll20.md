@@ -1,7 +1,3 @@
----
-render_with_liquid: false
----
-
 # HowTo: Setting up a Neon Blood character with rudimentary functionality in Roll20
 
 ## Table of contents
