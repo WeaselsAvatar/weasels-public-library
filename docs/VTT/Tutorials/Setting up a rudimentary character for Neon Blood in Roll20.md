@@ -95,8 +95,6 @@ This is a list of attributes I'm currently using in my sheet.
 
 ![Attributes](../img/character-attributes.png) 
 
-
-
 ##### Using Abilities
 
 Ok, now that we have attributes, what can we do with them? Writing rollable abilities, of course.
@@ -110,6 +108,8 @@ In general, an ability roll for this sheet consists of the basic die roll (as ab
 ###### Untrained Skills and Saving Throws
 *Untrained Skill Checks* and *Saves* are basically the same, with some minor differences:
 
+{% raw %}
+
 ```javascript
 // Untrained Skill Check, asks for an attribute and bonuses to roll
 // Note the use of Uncanny Valley for CHA
@@ -119,8 +119,15 @@ In general, an ability roll for this sheet consists of the basic die roll (as ab
 // Note the Save bonuses for the Emissary Role and Uncanny Valley for CHA
 &{template:default} {{name=Saving Throw}} {{save=[[@{Base_Die_Roll}+?{Attribut|Strength,@{STR}|Dexterity,@{DEX}|Constitution,@{CON}+2|Intelligence,@{INT}|Wisdom,@{WIS}+2|Charisma,@{CHA}+@{Uncanny_Valley}}+?{Bonus|0}]]}} {{note=TN16}}
 ```
+
+{% endraw %}
+
 ###### Combat Rolls and Defense
+
 Combat and Defense rolls are not that different from the above macros, but output and some combat options make them necessary:
+
+{% raw %}
+
 ```javascript
 // Attack roll for an assault rifle in Single Action Mode.
 // Exo has a SmartLink and the weapon is a SmartGun, so the roll has a fixed +1 bonus
@@ -143,6 +150,9 @@ Combat and Defense rolls are not that different from the above macros, but outpu
 // Note the added defense bonus based on Open/Closed mode
 &{template:default} {{name=VRx Defense}} {{defense=[[@{Base_Die_Roll}+@{Skill_Tech}+@{VRx}+@{PAN_DefenseBonus}+?{PAN Mode | Open, 0| Closed, +1}+?{Bonus|0}]]}} {{note=TN16}}
 ```
+
+{% endraw %}
+
 The result looks something like this:<br>
 ![Macro output](../img/ability-macro-output.png)
 
@@ -152,14 +162,14 @@ That's basically it. With minor variations, nearly all checks can be written as 
 I also put the character information into the 'Bio' tab, that way it feels like a 'real' character sheet and is readable by humans.<br>
 ![Human-Readable](../img/Exo-Bio.png)
 
-
-
 ## Npc creation
 
 Creating NPCs is easy-peasy compared to player characters as they have waaay less attributes and actually only two or three ranged, melee or social attacks.<br>
 ![NPC sheet](../img/Npc-Template-attributes.png)
 
 That's it, really
+
+{% raw %}
 
 ```javascript
 // Example ranged attack with fire modes. Don't use them if a weapon doesn't have them ;)
@@ -169,10 +179,15 @@ That's it, really
 &{template:default} {{name=@{Melee_Weapon}}} {{damage=[[1@{Threat}+@{Melee_Combat_Mods}]]}}{{note=You get stabbed!}}
 ```
 
+{% endraw %}
+
 ### Setting up targeted rolls against varying target numbers (TN)
+
 Some NPCs modify the target numbers to Defense or skill rolls. As the GM never rolls any attacks, it might be useful to query a NPC for any modifiers to the TN and use that as a target number in a defense roll.
 The normal command for rolls against a target number is `/roll 1d20>16`. This tells us whether or not the roll was a success (roll >= 16). This approach doesn't work for combined rolls as the ones in Neon Blood (:sadface). If I were to roll `/roll {3d8+1}>3`, Roll20 would evaluate every single roll and not the sum of all rolled dice. To work around that, we have to generate a "group" with a fake die roll: `/roll {3d8+1, 0d0}>5`. This evaluates all individual rolls but counts the 3d8+1 as a single roll (silly, but it works, so fuck it).
 Now that we have this problem solved, how do we get the modifiers to defense from the attacker? First, we have to add a new attribute `Opfor_TN` to our NPC character sheet and fill it with a modified TN value (The base TN is 16 and I already added another attribute `Def_Combat_Mods`, so I can just add these two together). I can now use the global `target` attribute to query attributes for a selectable target. Whenever I trigger the ability, Roll20 will ask for a target to be selected and get the Opfor_TN from there.
+
+{% raw %}
 
 ```javascript
 // Attribute in the NPC sheet
@@ -182,15 +197,15 @@ Now that we have this problem solved, how do we get the modifiers to defense fro
 // Note the use of @target
 &{template:default} {{name=Defense against TN @{target|Opfor_TN}}} {{defense=[[{@{Base_Die_Roll}+@{Skill_Athletics}+@{Rx}+1+?{Bonus|0}, 0d0}>@{target|Opfor_TN}]]}}
 ```  
+
+{% endraw %}
+
 ![Targeted macro](../img/TargetedMacro.png)
 
 The result looks something like this:<br>
 ![Roll result](../img/TargetedRoll-Output.png)
 
 #### Automatically calculating damage and cleaning up defense output
-
-
-
 
 ## Links
 
