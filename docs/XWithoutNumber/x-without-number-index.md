@@ -18,11 +18,11 @@
 
 ### Random tables
 
-1. [Barrat Equipment](./StarsWithoutNumber/Random-Tables/Barrat-Equipment.md) quickly generate the look and feel of a Barrat weapon
-2. [Custom manufacturers and Equipment names](./StarsWithoutNumber/Random-Tables/Custom-Manufacturer-and-Equipment-Names.md)
-3. [Ich durchsuche die Wohnung...](./StarsWithoutNumber/Random-Tables/Ich-durchsuche-die-Wohnung.md) 200 entries of assorted things to find in an empty space station
-4. [Was will die AI?](./StarsWithoutNumber/Random-Tables/Was-will-die-AI.md)
-5. [Random encounters in Space](./StarsWithoutNumber/Random-Tables/Zufallsbegegnungen-zwischen-den-Sternen.md)
+1. [Barrat Equipment](./StarsWithoutNumber/RandomTables/Barrat-Equipment.md) quickly generate the look and feel of a Barrat weapon
+2. [Custom manufacturers and Equipment names](./StarsWithoutNumber/RandomTables/Custom-Manufacturer-and-Equipment-Names.md)
+3. [Ich durchsuche die Wohnung...](./StarsWithoutNumber/RandomTables/Ich-durchsuche-die-Wohnung.md) 200 entries of assorted things to find in an empty space station
+4. [Was will die AI?](./StarsWithoutNumber/RandomTables/Was-will-die-AI.md)
+5. [Random encounters in Space](./StarsWithoutNumber/RandomTables/Zufallsbegegnungen-zwischen-den-Sternen.md)
 
 ### Rules
 
