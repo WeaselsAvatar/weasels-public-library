@@ -35,6 +35,8 @@ Aus dem oberen Bild lässt sich gut erkennen, wie das System "Rüstung aufschlü
 
 Hier lässt sich auch erkennen, dass die *Art* der Rüstung nicht die Rüstungsklasse widerspiegelt. Stattdessen gibt sie an, wie *effektiv* die Rüstung gegen eine spezifische Art von Angriff ist.
 
+Jede Rüstung, die voll effektiv gegen etwas ist *und* vollständig schützt (Torso, Arme, Beine, Kopf) hat damit AC 18.
+
 Damit ergeben sich unter Anderem die folgenden Zustände einer Rüstung:
 
 |Zustand|Armor Class|Bemerkung|
