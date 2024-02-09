@@ -15,8 +15,6 @@
 |                          |       |       |      |         |                                                              |
 |                          |       |       |      |         |                                                              |
 
-
-
 ### Automated Damage Control
 
 The ship is fitted with an automated support system, helping with crucial and quick repairs during ship-to-ship combat. When activated, drones are sent out to quickly assess damage and provide repair support.
