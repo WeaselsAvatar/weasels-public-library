@@ -8,7 +8,7 @@ A collection of random tables and other documentation for tabletop role-playing 
 - [General](./docs/General/general-index.md) Contains system-neutral rules and musings
 - [Pathfinder](./docs/Pathfinder/pathfinder-index.md) some Pathfinder related documents
 - [VTT](./docs/VTT/vtt-index.md) contains all sorts of stuff for use with virtual tabletops (like Roll20 or Foundry VTT)
-- [X Without Number](./docs/X-Without-Number/x-without-number-index.md) contains content specific to Sine Nomine Publishings ...Without Number games (Random tables, rules, etc.)
+- [X Without Number](./docs/XWithoutNumber/x-without-number-index.md) contains content specific to Sine Nomine Publishings ...Without Number games (Random tables, rules, etc.)
 
 ## Codes
 
