@@ -6,6 +6,11 @@
 
 ## Stars Without Number
 
+## Adversaries
+
+1. [Space Bees](./StarsWithoutNumber/Adversaries/space-bees.md) are Bees from SPAAACE
+2. [Military Zombies](./StarsWithoutNumber/Adversaries/military-zombies.md) are [Peter Watts like](https://rifters.com/echopraxia/recruiter.htm) soldiers.
+
 ### Equipment
 
 1. [Ship Fittings and Mods](./StarsWithoutNumber/Equipment/New-Ship-Fittings-and-Mods.md) a small collection of ship parts
