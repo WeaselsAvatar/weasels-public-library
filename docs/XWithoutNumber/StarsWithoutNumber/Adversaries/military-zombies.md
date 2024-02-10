@@ -41,3 +41,7 @@ Gerüchten zufolge verfügen sowohl die Regierung von MacDonald, als auch die Re
 
 Militärische Zombies sind in der Lage, sich unbewusst zu vernetzen und ihre Strategien in Gedankenschnelle anzupassen.
 Wenn mehrere Zombies das gleiche Ziel bekämpfen, erhalten sie einen Bonus von +1 auf Angriffs und Rettungswürfe für jeden teilnehmenden Zombie (maximal +5). Wenn ein Zombie das Ziel sehen kann, können alle das Ziel "sehen" und es gilt immer nur der niedrigste Modifikator für Deckung.
+
+## Links
+
+- [Military Zombies by Peter Watts](https://rifters.com/echopraxia/recruiter.htm)
