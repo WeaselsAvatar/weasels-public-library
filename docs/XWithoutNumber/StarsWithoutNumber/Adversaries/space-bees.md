@@ -41,3 +41,10 @@ An sich wären die Bienen für Menschen ungefährlich, allerdings sehen die elek
 |---|---|
 |Säure|Bei einem Biss durch eine Biene verursacht eine potente anorganische Säure 1d4 Schaden/Runde für 1d6 Runden|
 |Explodes|Bei ihrem Tod explodiert die Biene in einer Wolke aus toxischen Chemikalien und radioaktiver Strahlung. Die Explosion verursacht Xd6 Schaden in X Metern Radius (Evasion-Save für die Hälfte). Weiterhin ist das Explosionsgebiet radioaktiv (Save(P)/2 Runden), siehe auch SWN p. 58|
+
+### Loot
+
+- Die kristallinen Tentakelspitzen der Bienen können als Bauteile für extrem potente Laser verwendet werden.
+  - Wenn sie in einer Waffe verbaut werden Fix(1), erhöht den Schaden um +1
+  - Verkaufspreis pro Spitze 200 Cr.
+- Den verflüssigten Cocktail aus Chemikalien kann man für 1d6*1000 Cr. / Tonne verkaufen. Die dichtgepackten Metalle etc. finden immer Käufer.
