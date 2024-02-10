@@ -6,7 +6,7 @@
 
 ## Stars Without Number
 
-## Adversaries
+### Adversaries
 
 1. [Space Bees](./StarsWithoutNumber/Adversaries/space-bees.md) are Bees from SPAAACE
 2. [Military Zombies](./StarsWithoutNumber/Adversaries/military-zombies.md) are [Peter Watts like](https://rifters.com/echopraxia/recruiter.htm) soldiers.
