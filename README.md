@@ -28,22 +28,22 @@ A collection of random tables and other documentation for tabletop role-playing 
 |[Spass mit Mimics](./docs/General/fun-with-mimics.md)|Was ist alles ein Mimic?|System agnostic|wsl|
 |[Zufällige Dinge im Raum](./docs/General/some-loot.md)|Was gibt es hier im Raum?|D&D 5e|wsl|
 |[Seltsame Dinge im Raum](./docs/General/some-weirdness.md)|In dem Raum hier ist etwas seltsam|System agnostic|wsl|
-|[Slightly less Shit Artifact Armor](./docs/XWithoutNumber/StarsWithoutNumber/Equipment/Slightly-Less-Shit-Artifact-Armour.md)|Generate Artifact Armor (sort of)|Stars Without Number 2e|wsl (idea by [Glynn Seal](https://monkeyblooddesign.co.uk/))|
-|[Slightly less Shit Artifact Weapons](./docs/XWithoutNumber/StarsWithoutNumber/Equipment/Slightly-Less-Shit-Artifact-Weapons.md)|Generate Artifact Weapons (sort of)|Stars Without Number 2e|wsl (idea by [Glynn Seal](https://monkeyblooddesign.co.uk/))|
-|[Slightly less Shit Artifact Manufacturers](./docs/XWithoutNumber/StarsWithoutNumber/Equipment/Slightly-Less-Shit-Artifact-Manufacturers.md)|Generate Artifact Manufacturers (sort of meh)|Stars Without Number 2e|wsl (idea by [Glynn Seal](https://monkeyblooddesign.co.uk/))|
-|[Custom manufacturers and Equipment names](./docs/XWithoutNumber/StarsWithoutNumber/RandomTables/Custom-Manufacturer-and-Equipment-Names.md)|Ein Generator für Herstellernamen|Stars Without Number 2e|wsl|
 |[Ich durchsuche die Wohnung...](./docs/XWithoutNumber/StarsWithoutNumber/RandomTables/Ich-durchsuche-die-Wohnung.md)|Was gibt es denn so auf der verlassenen Raumstation? 200 Einträge gibt es!|Stars Without Number 2e|wsl|
 |[Was will die verrückte AI?](./docs/XWithoutNumber/StarsWithoutNumber/RandomTables/Was-will-die-AI.md)|Ja, was denn?|System agnostic Sci-Fi|wsl|
 |[Was finde ich im Computer?](./docs/XWithoutNumber/StarsWithoutNumber/RandomTables/Im-Computer-finde-ich.md)|Es gibt da bestimmt was interessantes, kann ja gar nicht gefährlich sein, oder?|Stars Without Number 2e|wsl|
 |[Begegnungen zwischen den Sternen](./docs/XWithoutNumber/StarsWithoutNumber/RandomTables/Zufallsbegegnungen-zwischen-den-Sternen.md)|Zufallsbegegnungen im Weltraum|Stars Without Number 2e|wsl|
-|[Barrat Equipment](./docs/XWithoutNumber/StarsWithoutNumber/RandomTables/Barrat-Equipment.md)|Ein Generator für die Waffen und Rüstungen der Barrat|Stars Without Number 2e|wsl|
 
 ### Equipment
 
 |Title|Description|System|Author|
 |---|---|---|---|
+|[Slightly less Shit Artifact Armor](./docs/XWithoutNumber/StarsWithoutNumber/Equipment/Slightly-Less-Shit-Artifact-Armour.md)|Generate Artifact Armor (sort of)|Stars Without Number 2e|wsl (idea by [Glynn Seal](https://monkeyblooddesign.co.uk/))|
+|[Slightly less Shit Artifact Weapons](./docs/XWithoutNumber/StarsWithoutNumber/Equipment/Slightly-Less-Shit-Artifact-Weapons.md)|Generate Artifact Weapons (sort of)|Stars Without Number 2e|wsl (idea by [Glynn Seal](https://monkeyblooddesign.co.uk/))|
+|[Slightly less Shit Artifact Manufacturers](./docs/XWithoutNumber/StarsWithoutNumber/Equipment/Slightly-Less-Shit-Artifact-Manufacturers.md)|Generate Artifact Manufacturers (sort of meh)|Stars Without Number 2e|wsl (idea by [Glynn Seal](https://monkeyblooddesign.co.uk/))|
+|[Custom manufacturers and Equipment names](./docs/XWithoutNumber/StarsWithoutNumber/RandomTables/Custom-Manufacturer-and-Equipment-Names.md)|Ein Generator für Herstellernamen|Stars Without Number 2e|wsl|
 |[Ship Fittings and Mods](./docs/XWithoutNumber/StarsWithoutNumber/Equipment/New-Ship-Fittings-and-Mods.md)|Some new fittings and mods for starships|Stars Without Number 2e|wsl|
 |[Spezialmunition](./docs/XWithoutNumber/StarsWithoutNumber/Equipment/Spezialmunition.md)|Verschiedene Munitionsarten für Projektilwaffen|Stars Without Number 2e|wsl|
+|[Barrat Equipment](./docs/XWithoutNumber/StarsWithoutNumber/RandomTables/Barrat-Equipment.md)|Ein Generator für die Waffen und Rüstungen der Barrat|Stars Without Number 2e|wsl|
 
 ### Tutorials
 
