@@ -44,6 +44,7 @@ A collection of random tables and other documentation for tabletop role-playing 
 |[Ship Fittings and Mods](./docs/XWithoutNumber/StarsWithoutNumber/Equipment/New-Ship-Fittings-and-Mods.md)|Some new fittings and mods for starships|Stars Without Number 2e|wsl|
 |[Spezialmunition](./docs/XWithoutNumber/StarsWithoutNumber/Equipment/Spezialmunition.md)|Verschiedene Munitionsarten für Projektilwaffen|Stars Without Number 2e|wsl|
 |[Barrat Equipment](./docs/XWithoutNumber/StarsWithoutNumber/RandomTables/Barrat-Equipment.md)|Ein Generator für die Waffen und Rüstungen der Barrat|Stars Without Number 2e|wsl|
+|[SWN Rüstungsklassen nach anderen regeln](./docs/XWithoutNumber/StarsWithoutNumber/Equipment/Armor-new-rules.md)|Stars without Number Rüstungen nach alternativen Regeln für Armor Class|Stars Without Number 2e|wsl|
 
 ### Tutorials
 
