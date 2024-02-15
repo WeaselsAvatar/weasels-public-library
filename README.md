@@ -63,6 +63,14 @@ A collection of random tables and other documentation for tabletop role-playing 
 |[Specific Research](./docs/XWithoutNumber/StarsWithoutNumber/Rules/Specific-Research-Minigame.md)|A waaay too elaborate minigame for conducting extended research in a specific field|Stars Without Number 2e|wsl|
 |[Pathfinder Massenkampfregeln](./docs/Pathfinder/Massenkampfregeln-Pathfinder-VTT.md)|Super rudimentäre Massenkampfregeln|Pathfinder 1e|wsl|
 
+### Macros
+
+|Title|Description|System|Author|
+|---|---|---|---|
+|[Roll Table Macros](./docs/VTT/Macros/Call-random-table.md)|Macros, um eine Zufallstabelle zu rufen|Foundry VTT|wsl|
+|[Create Chat messages](./docs/VTT/Macros/Create-Chat-Message.md)|Macros, um Chatnachrichten zu erzeugen|Foundry VTT|wsl|
+|[Select Token](./docs/VTT/Macros/Select-Specific-Token.md)|Macros, um ein bestimmtes Token zu selektieren|Foundry VTT|wsl|
+
 ### Fluff
 
 |Title|Description|System|Author|
