@@ -79,6 +79,7 @@ A collection of random tables and other documentation for tabletop role-playing 
 |---|---|---|---|
 |[This is us](./docs/Fluff/this-is-us.md)|A short cyberpunk piece I originally wrote for a Neon Blood one-shot. I thought it was neat but I wrote it, sooo...|Neon Blood|wsl|
 |[Metro-N Intro](./docs/Fluff/metro-n-Intro.md)|Der Introtext für eine neue Kampagne|Cities Without Number|wsl|
+|[Der Fall von Anastasias Gate](./docs/Fluff/the-fall-of-anastasias-gate.md)|Transkripte einer sterbenden Welt|Stars Without Number|wsl|
 
 ## Codes
 
