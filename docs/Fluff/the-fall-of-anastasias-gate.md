@@ -57,7 +57,7 @@ Unbekannt: Oh Gott...
 ```txt
 [Die Aufzeichnung ist von Rauschen durchzogen]
 
-Kyrie: Gouverneur, die neuen Zahlen sind jetzt vorhanden. Industrielle Produktion ist Stand heute auf 65% Prä-Zwischenfall. Lebensmittelproduktion ist stabil auf 45% des Niveaus vor dem Zwischenfall. Die Kurve der Todesfälle durch Mangelerscheinungen flacht ab und Bevölkerung stabilisiert sich auf 40% des Wertes vor dem Zwischenfall. Viele der alten Produktionstätten zeigen langsam Mangelerscheinungen und es fehlt an Ersatzteilen. Ich prognostiziere einen Abfall der Produktion um 34% bis 2725, falls wir keine neuen Systeme entwickeln können.
+Kyrie: Gouverneur, die neuen Zahlen sind jetzt vorhanden. Industrielle Produktion ist Stand heute auf 35% Prä-Zwischenfall. Lebensmittelproduktion ist stabil auf 29% des Niveaus vor dem Zwischenfall. Die Kurve der Todesfälle durch Mangelerscheinungen flacht ab und Bevölkerung stabilisiert sich auf 24% des Wertes vor dem Zwischenfall. Viele der alten Produktionstätten zeigen langsam Mangelerscheinungen und es fehlt an Ersatzteilen. Ich prognostiziere einen Abfall der Produktion um 34% bis 2725, falls wir keine neuen Systeme entwickeln können.
 
 Gouverneur Callan Rashid [pred.]: Wie ist die generelle Stimmung in der Bevölkerung? Ich weiß, die Daten aus der Hauptstadt zeigen eine Absenkung des generellen Lebensstandards, aber nach den Katastrophen der letzten Monate ist zumindest hier der Zustand verhältnismäßig gut.
 
@@ -67,11 +67,11 @@ GCR: Irgendwelche Nachrichten von Terra? Irgendetwas?
 
 Kyrie: Es gibt leider keine Nachrichten. Es werden Versuche unternommen, eins der alten Transportschiffe zu reaktivieren und eine Expedition zum Sprungtor zu starten und das Tor zur Untersuchung hierher zu transportieren.
 
-Unbekannt: Haben wir die Resourcen dafür? Das hier ist zwar ein High-tech Welt, aber auch wir sind auf Material von außerhalb angewiesen.
+Unbekannt: Haben wir die Resourcen dafür? Das hier ist, oder besser war, zwar eine High-Tech Welt, aber auch wir sind auf Material von außerhalb angewiesen.
 
 GCR: Mr. Antonov, wir sind immer noch Teil des Terranischen Mandats und das Mandat lässt sich durch temporäre Probleme nicht schwächen. Wir existieren seit fast 500 Jahren.
 
-[Commander Juri] Antonov: "Temporäre Zwischenfälle"? Wir haben seit 6 Monaten keinen Kontakt mehr nach außen und durch den "Zwischenfall" sind zwei Milliarden Menschen gestorben, weil wir sie nicht ernähren oder medizinisch versorgen konnten!
+[Commander Juri] Antonov: "Temporäre Zwischenfälle"? Wir haben seit 15 Jahren keinen Kontakt mehr nach außen und durch den "Zwischenfall" sind zwei Milliarden Menschen gestorben, weil wir sie nicht ernähren oder medizinisch versorgen konnten!
 
 Kyrie: Juri, ich tue mein Bestes...
 
